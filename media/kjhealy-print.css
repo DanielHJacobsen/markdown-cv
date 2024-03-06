@@ -102,6 +102,8 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+    list-style-type: square;
+    margin-left: 1.25em
 	/*color: #777;*/
 }
 
