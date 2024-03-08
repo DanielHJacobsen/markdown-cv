@@ -43,6 +43,7 @@ Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig f
 [![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-blue?logo=Puppeteer&labelColor=black)](#)
 [![Selenium Badge](https://img.shields.io/badge/Selenium-green?logo=Selenium&labelColor=black)](#)
 [![SPA Badge](https://img.shields.io/badge/SPA-yellow)](#)
+[![Jest Badge](https://img.shields.io/badge/Jest-orange)](#)
 
 ### Backend
 [![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
@@ -54,6 +55,7 @@ Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig f
 [![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-lightgreen)](#)
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-grey)](#)
+[![Pitest Badge](https://img.shields.io/badge/Pitest-red)](#)
 
 ### Full-stack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-purple?logo=MQTT&labelColor=black)](#)
@@ -85,6 +87,7 @@ Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig f
 [![GitHub Badge](https://img.shields.io/badge/GitHub-orange?logo=GitHub&labelColor=black)](#)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
 [![PyCharm Badge](https://img.shields.io/badge/PyCharm-yellow)](#)
+[![CodeScene Badge](https://img.shields.io/badge/CodeScene-darkblue)](#)
 
 
 ## Karriereforløb & projekter
@@ -120,6 +123,7 @@ I rollen som softwarearkitekt har konsulents konkrete udviklingsopgaver varieret
 [![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-blue?logo=Puppeteer&labelColor=black)](#)
 [![Selenium Badge](https://img.shields.io/badge/Selenium-green?logo=Selenium&labelColor=black)](#)
 [![SPA Badge](https://img.shields.io/badge/SPA-yellow)](#)
+[![Jest Badge](https://img.shields.io/badge/Jest-orange)](#)
 [![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
 [![Python Badge](https://img.shields.io/badge/Python-blue?logo=Python&labelColor=black)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-green?logo=MongoDB&labelColor=black)](#)
@@ -131,6 +135,7 @@ I rollen som softwarearkitekt har konsulents konkrete udviklingsopgaver varieret
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-blue?logo=JSON&labelColor=black)](#)
 [![Microservice Badge](https://img.shields.io/badge/Microservice-red)](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-grey)](#)
+[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
 [![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-2497ed?logo=docker&labelColor=black)](#)
 [![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
@@ -151,47 +156,157 @@ I rollen som softwarearkitekt har konsulents konkrete udviklingsopgaver varieret
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
 [![PyCharm Badge](https://img.shields.io/badge/PyCharm-yellow)](#)
+[![Pitest Badge](https://img.shields.io/badge/Pitest-red)](#)
+[![CodeScene Badge](https://img.shields.io/badge/CodeScene-darkblue)](#)
 
+`2018 - 2029`
+Saab Danmark, *Softwareingeniør*
+<br>
+<br>
+I det første år hos Saab arbejdede konsulenten som Softwareingeniør på VCS-projektet. Grundet god udvikling i rollen og uddannelse gennem Teknologisk Institut og Dansk IT (System Architect - Practitioner) blev konsulenten efter et år forfremmet til rollen som Softwarearkitekt.
+<br>
+<br>
+I rollen som Softwareingeniør stod konsulenten for fremstillingen af en Electron desktop applikation baseret på et TypeScript projekt, udvikling af adskillige Java microservices og integration mellem applikationer med MQTT-protokollen.
 
+### Kompetencer brugt
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
+[![Electron Badge](https://img.shields.io/badge/Electron-darkblue?logo=Electron&labelColor=black)](#)
+[![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
+[![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-blue?logo=Puppeteer&labelColor=black)](#)
+[![Jest Badge](https://img.shields.io/badge/Jest-orange)](#)
+[![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
+[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-lightgreen)](#)
+[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-grey)](#)
+[![MQTT Badge](https://img.shields.io/badge/MQTT-purple?logo=MQTT&labelColor=black)](#)
+[![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-blue?logo=JSON&labelColor=black)](#)
+[![Microservice Badge](https://img.shields.io/badge/Microservice-red)](#)
+[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
+[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
+[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
+[![RPM Badge](https://img.shields.io/badge/RPM-red)](#)
+[![VMWare Badge](https://img.shields.io/badge/VMWare-darkblue?logo=VMWare&labelColor=black)](#)
+[![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightgrey)](#)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-blue?logo=Confluence&labelColor=black)](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-lightgrey?logo=Jira&labelColor=black)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
+[![Pitest Badge](https://img.shields.io/badge/Pitest-red)](#)
+[![CodeScene Badge](https://img.shields.io/badge/CodeScene-darkblue)](#)
 
+`2018 - 2019`
+INTEGU, *Freelance Softwarekonsulent*
+<br>
+<br>
+Over en periode på et halvt år rejste konsulenten sammen med sin kone til Indien i forbindelse med hendes arbejde. Givet det succesfulde arbejdsforhold mellem kunden (tidligere arbejdsgiver Capgemini) og konsulenten, blev stillingen konverteret over til en freelance-stilling. Dermed kunne konsulenten fortsætte sit arbejde remote fra Indien gennem det halve år.
 
+### Kompetencer brugt
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
+[![Angular Badge](https://img.shields.io/badge/Angular-darkred?logo=Angular&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
+[![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
+[![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
+[![SQL Badge](https://img.shields.io/badge/SQL-darkblue?logo=mysql&labelColor=black)](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
+[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-lightgreen)](#)
+[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
+[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
+[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
+[![VMWare Badge](https://img.shields.io/badge/VMWare-darkblue?logo=VMWare&labelColor=black)](#)
+[![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightgrey)](#)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-blue?logo=Confluence&labelColor=black)](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-lightgrey?logo=Jira&labelColor=black)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
 
+`2018 - 2019`
+Capgemini, *Softwareingeniør - Konsulent*
+<br>
+<br>
+Hos Capgemini arbejdede konsulenten som softwareingeniør på et større bookingsystem til sundhedsvæsenet. Konsulenten voksede hurtigt i sin rolle (f.eks. OCA-certificering) og arbejdede med en række forskellige udviklingsværktøjer og -tjenester – alt sammen inden for et etableret SCRUM-projekt.
+<br>
+<br>
+Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil sige at arbejde med legacy-kode, herunder de forbehold og forholdsregler man bør tage hensyn til for at arbejde sikkert og effektivt i en 15+ år gammel kodebase
+
+### Kompetencer brugt
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
+[![Angular Badge](https://img.shields.io/badge/Angular-darkred?logo=Angular&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
+[![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
+[![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
+[![SQL Badge](https://img.shields.io/badge/SQL-darkblue?logo=mysql&labelColor=black)](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
+[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-lightgreen)](#)
+[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
+[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
+[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
+[![VMWare Badge](https://img.shields.io/badge/VMWare-darkblue?logo=VMWare&labelColor=black)](#)
+[![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightgrey)](#)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-blue?logo=Confluence&labelColor=black)](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-lightgrey?logo=Jira&labelColor=black)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
 
 ## Publications
+### Lectures
+`2024`
+<img src="https://media.licdn.com/dms/image/sync/D4D27AQGOiIaQZaLb9A/articleshare-shrink_800/0/1709539685996?e=1710511200&v=beta&t=1s1W-eJdMV6Ryma7pgsvKDdXviKEDSs4vLrIg85Hc34" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
+<div style="display: flex; padding-left: 28%; width: 610px">
+<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>IDA/SFA - Military Drones and development of military technologies</p>
+<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'></p>
+<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'></p>
+<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'></p>
+</div>
+### Blogs - [www.INTEGU.net](https://integu.net)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2018-2024`
+<img src="https://integu.net/wp-content/uploads/2020/11/INTEGU-Jest-Snapshot-TeamCity-Flow-768x794.jpg" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
+<img src="https://integu.net/wp-content/uploads/2020/11/INTEGU-builder-design-pattern-overview.png" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
+<img src="https://integu.net/wp-content/uploads/2023/08/INTEGU-What-is-Ansible.png" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
+<img src="https://integu.net/wp-content/uploads/2022/04/INTEGU-Semantic-version-change-microservice-API-dependency.png" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
+<br>
+<div style="display: flex; padding-left: 28%; width: 610px">
+<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>Solving Jest-Image-Snapshot Font Rendering Issues Within A Modern Branching Strategy</p>
+<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>Design Patterns In Java</p>
+<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>Introduction To Ansible</p>
+<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>How To Handle API Dependencies In A Microservice Architecture</p>
+</div>
 
 
 
-<!-- ### Footer
+### Education & Certifications
 
-Last updated: May 2013 -->
+`2023`
+Eurocea ED-109 (software assurance level) certified
+
+`2021`
+Dansk IT - System Architect Practitioner
+
+`2020`
+Dansk IT - IT Architect Foundation
+
+`2018`
+Oracle - OCA – Java 8
+
+`2017`
+Huawei - Seeds for the Future
+
+`2015-2017`
+M.Sc. Innovative Communication Technologies & Entrepreneurship
+
+`2014-2015`
+B.Sc – Management Center Innsbruck
+
+`2012-2015`
+B.Sc. Innovation and Business (IB)
+
+<!-- ### Footer Last updated: March 2024 -->
 
 
