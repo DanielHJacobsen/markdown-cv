@@ -259,7 +259,7 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
 `2024`
 <img src="https://media.licdn.com/dms/image/sync/D4D27AQGOiIaQZaLb9A/articleshare-shrink_800/0/1709539685996?e=1710511200&v=beta&t=1s1W-eJdMV6Ryma7pgsvKDdXviKEDSs4vLrIg85Hc34" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
 <div style="display: flex; padding-left: 28%; width: 610px">
-<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>IDA/SFA - Military Drones and development of military technologies</p>
+<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>IDA/SFA - Military Drones and development of military technologies - https://shorturl.at/bilyD</p>
 <p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'></p>
 <p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'></p>
 <p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'></p>
