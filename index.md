@@ -257,26 +257,28 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
 ## Publications
 ### Lectures
 `2024`
-<img src="https://media.licdn.com/dms/image/sync/D4D27AQGOiIaQZaLb9A/articleshare-shrink_800/0/1709539685996?e=1710511200&v=beta&t=1s1W-eJdMV6Ryma7pgsvKDdXviKEDSs4vLrIg85Hc34" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
-<div style="display: flex; padding-left: 28%; width: 610px">
-<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>IDA/SFA - Military Drones and development of military technologies - https://shorturl.at/bilyD</p>
-<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'></p>
-<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'></p>
-<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'></p>
+<img class="pub-img" src="https://media.licdn.com/dms/image/sync/D4D27AQGOiIaQZaLb9A/articleshare-shrink_800/0/1709539685996?e=1710511200&v=beta&t=1s1W-eJdMV6Ryma7pgsvKDdXviKEDSs4vLrIg85Hc34"/>
+<div class="pub-text-grp">
+<p class="pub-text">IDA/SFA - Military Drones and development of military technologies - https://shorturl.at/bilyD</p>
+<p class="pub-text"></p>
+<p class="pub-text"></p>
+<p class="pub-text"></p>
+<p class="pub-text"></p>
 </div>
 ### Blogs - [www.INTEGU.net](https://integu.net)
 
 `2018-2024`
-<img src="https://integu.net/wp-content/uploads/2020/11/INTEGU-Jest-Snapshot-TeamCity-Flow-768x794.jpg" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
-<img src="https://integu.net/wp-content/uploads/2020/11/INTEGU-builder-design-pattern-overview.png" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
-<img src="https://integu.net/wp-content/uploads/2023/08/INTEGU-What-is-Ansible.png" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
-<img src="https://integu.net/wp-content/uploads/2022/04/INTEGU-Semantic-version-change-microservice-API-dependency.png" alt="drawing" height="140" width="140" style="border: solid; border-radius: 20px"/>
+<img class="pub-img" src="https://integu.net/wp-content/uploads/2020/11/INTEGU-Jest-Snapshot-TeamCity-Flow-768x794.jpg"/>
+<img class="pub-img" src="https://integu.net/wp-content/uploads/2020/11/INTEGU-builder-design-pattern-overview.png"/>
+<img class="pub-img" src="https://integu.net/wp-content/uploads/2023/08/INTEGU-What-is-Ansible.png"/>
+<img class="pub-img" src="https://integu.net/wp-content/uploads/2022/04/INTEGU-Semantic-version-change-microservice-API-dependency.png"/>
 <br>
-<div style="display: flex; padding-left: 28%; width: 610px">
-<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>Solving Jest-Image-Snapshot Font Rendering Issues Within A Modern Branching Strategy</p>
-<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>Design Patterns In Java</p>
-<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>Introduction To Ansible</p>
-<p style='left: 0%; margin: 3px; color: grey; font-style: italic; font-size: 8px;'>How To Handle API Dependencies In A Microservice Architecture</p>
+<div class="pub-text-grp">
+<p class="pub-text">Solving Jest-Image-Snapshot Font Rendering Issues Within A Modern Branching Strategy</p>
+<p class="pub-text">Design Patterns In Java</p>
+<p class="pub-text">Introduction To Ansible</p>
+<p class="pub-text">How To Handle API Dependencies In A Microservice Architecture</p>
+<p class="pub-text"></p>
 </div>
 
 

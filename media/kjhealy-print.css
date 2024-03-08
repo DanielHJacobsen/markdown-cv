@@ -191,6 +191,29 @@ strong {
 	visibility: hidden;
 }
 
+.pub-img {
+    border: solid;
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+    filter: sepia(100%) hue-rotate(190deg) saturate(250%);
+}
+
+.pub-text {
+    left: 0%;
+    margin: 5px;
+    color: grey;
+    font-style: italic;
+    font-size: 6px;
+    width: 100px;
+}
+
+.pub-text-grp {
+    display: flex;
+    padding-left: 28%;
+    width: 72%
+}
+
 
 
 
