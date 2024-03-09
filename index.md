@@ -392,8 +392,6 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
 <p class="pub-text"><a href="https://integu.net/how-to-manage-internal-external-package-with-artifactory/">How To Manage Internal/External Package With Artifactory <br><br> https://shorturl.at/qHIN6</a></p>
 </div>
 
-<div class="page-break-after"></div>
-
 ### Education & Certifications
 
 `2023`
