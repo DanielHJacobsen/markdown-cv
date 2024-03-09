@@ -27,8 +27,6 @@ Konsulenten befinder sig godt i et krydsfelt mellem udviklingsrollen og opgaver 
 
 Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig forventning, som alle er drivkræfter for konsulentens arbejde. Konsulenten påtager sig et stort ansvar for, at hans og/eller teamets opgaver bliver løst efter bedste evne, så man får hjulpet kunden godt i mål.
 
-
-
 ## Primære kompetencer
 ### Frontend
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
@@ -37,7 +35,7 @@ Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig f
 [![Vue Badge](https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}}?logo=css3&labelColor=black)](#)
 [![Gridstack Badge](https://img.shields.io/badge/Gridstack-{{page.color}})](#)
 [![Electron Badge](https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black)](#)
 [![DevExtreme Badge](https://img.shields.io/badge/DevExtreme-{{page.color}})](#)
@@ -53,6 +51,7 @@ Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig f
 [![SQL Badge](https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black)](#)
 [![Firebase Badge](https://img.shields.io/badge/Firebase-{{page.color}}?logo=Firebase&labelColor=black)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black)](#)
+[![Redis Badge](https://img.shields.io/badge/Redis-{{page.color}}?logo=Redis&labelColor=black)](#)
 [![Karaf Badge](https://img.shields.io/badge/Karaf-{{page.color}})](#)
 [![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
@@ -91,6 +90,7 @@ Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig f
 [![PyCharm Badge](https://img.shields.io/badge/PyCharm-{{page.color}})](#)
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 
+<div class="page-break-after"></div>
 
 ## Karriereforløb & projekter
 
@@ -117,7 +117,7 @@ I rollen som softwarearkitekt har konsulents konkrete udviklingsopgaver varieret
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![Vue Badge](https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}}?logo=css3&labelColor=black)](#)
 [![Gridstack Badge](https://img.shields.io/badge/Gridstack-{{page.color}})](#)
 [![Electron Badge](https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black)](#)
 [![DevExtreme Badge](https://img.shields.io/badge/DevExtreme-{{page.color}})](#)
@@ -129,6 +129,7 @@ I rollen som softwarearkitekt har konsulents konkrete udviklingsopgaver varieret
 [![Java Badge](https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black)](#)
 [![Python Badge](https://img.shields.io/badge/Python-{{page.color}}?logo=Python&labelColor=black)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black)](#)
+[![Redis Badge](https://img.shields.io/badge/Redis-{{page.color}}?logo=Redis&labelColor=black)](#)
 [![Karaf Badge](https://img.shields.io/badge/Karaf-{{page.color}})](#)
 [![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
@@ -173,7 +174,7 @@ I rollen som Softwareingeniør stod konsulenten for fremstillingen af en Electro
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}}?logo=css3&labelColor=black)](#)
 [![Electron Badge](https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black)](#)
 [![NPM Badge](https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black)](#)
 [![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-{{page.color}}?logo=Puppeteer&labelColor=black)](#)
@@ -209,7 +210,7 @@ Over en periode på et halvt år rejste konsulenten sammen med sin kone til Indi
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}}?logo=css3&labelColor=black)](#)
 [![NPM Badge](https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black)](#)
 [![Java Badge](https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black)](#)
 [![SQL Badge](https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black)](#)
@@ -239,7 +240,7 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}}?logo=css3&labelColor=black)](#)
 [![NPM Badge](https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black)](#)
 [![Java Badge](https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black)](#)
 [![SQL Badge](https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black)](#)
@@ -255,6 +256,8 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
 
+<div class="page-break-after"></div>
+
 ## Kompetenceskema
 ### Roller
 <table class="skill-table">
@@ -267,48 +270,49 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
     <tr><td>SCRUM-master</td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-### Teknologier
+### Frontend Teknologier
 <table class="skill-table">
   <thead>
     <tr><th>Frontend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Android-{{page.color}}?logo=Android&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Android-{{page.color}}?logo=Android&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>2020</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>2</td><td>2020</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Puppeteer-{{page.color}}?logo=Puppeteer&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Selenium-{{page.color}}?logo=Selenium&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/DevExtreme-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Gridstack-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/CSS-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/SPA-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Puppeteer-{{page.color}}?logo=Puppeteer&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/CSS-{{page.color}}?logo=css3&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Selenium-{{page.color}}?logo=Selenium&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/DevExtreme-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Gridstack-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/SPA-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>2</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Jest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-<br>
+### Backend Teknologier
 <table class="skill-table">
   <thead>
     <tr><th>Backend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Python-{{page.color}}?logo=Python&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Firebase-{{page.color}}?logo=Firebase&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Karaf-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Maven-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/JUnit/Mockito-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Python-{{page.color}}?logo=Python&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2019</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Firebase-{{page.color}}?logo=Firebase&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2020</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Redis-{{page.color}}?logo=Redis&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2023</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Karaf-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>2</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Maven-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/JUnit/Mockito-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Pitest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-<br>
+### Full-stack Teknologier
 <table class="skill-table">
   <thead>
     <tr><th>Full-stack Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
@@ -320,42 +324,42 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
     <tr><td><img src="https://img.shields.io/badge/API_design-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-<br>
+### DevOps Teknologier
 <table class="skill-table">
   <thead>
     <tr><th>DevOps Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Ansible-{{page.color}}?logo=Ansible&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Linux-{{page.color}}?logo=Linux&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/RPM-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Robot_Framework-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Ansible-{{page.color}}?logo=Ansible&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Linux-{{page.color}}?logo=Linux&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/RPM-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Robot_Framework-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>2</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Bash/SH_scripting-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/SSH-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/SSH-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>6</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/CI/CD-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-<br>
+### Værktøjer
 <table class="skill-table">
   <thead>
     <tr><th>Værktøjer</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/GitHub-{{page.color}}?logo=GitHub&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/PyCharm-{{page.color}}?logo=intellij-idea&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/CodeScene-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Arc42-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/ED109-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Draw.io-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/GitHub-{{page.color}}?logo=GitHub&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/PyCharm-{{page.color}}?logo=intellij-idea&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/CodeScene-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Arc42-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/ED109-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>2</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Draw.io-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>3</td><td>2024</td></tr>
   </tbody>
 </table>
 
@@ -388,7 +392,7 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
 <p class="pub-text"><a href="https://integu.net/how-to-manage-internal-external-package-with-artifactory/">How To Manage Internal/External Package With Artifactory <br><br> https://shorturl.at/qHIN6</a></p>
 </div>
 
-
+<div class="page-break-after"></div>
 
 ### Education & Certifications
 

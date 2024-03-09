@@ -60,3 +60,7 @@
     padding-left: 5px;
     width: 20%
 }
+
+.page-break-after {
+    page-break-after: always;
+}
