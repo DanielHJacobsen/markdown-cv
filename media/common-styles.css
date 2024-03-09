@@ -1,0 +1,62 @@
+
+.pub-img {
+    border: solid;
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+    filter: sepia(100%) hue-rotate(190deg) saturate(150%);
+}
+
+.pub-text {
+    left: 0%;
+    margin: 5px;
+    color: grey;
+    font-style: italic;
+    font-size: 6px;
+    width: 100px;
+    line-height: normal;
+}
+
+.pub-text-grp {
+    display: flex;
+    padding-left: 28%;
+    width: 72%
+}
+
+.skill-table {
+    margin-left: 28%;
+    width: 67%;
+    border-radius: 10px;
+}
+
+.skill-table th {
+    font-weight: 800;
+    border-bottom: 1px solid black;
+}
+
+.skill-table th:nth-child(1), .skill-table td:nth-child(1) {
+    text-align: left;
+    padding-left: 5px;
+    border-right: 1px solid black;
+    width: 30%
+}
+
+.skill-table th:nth-child(2), .skill-table td:nth-child(2) {
+    text-align: center;
+    padding-left: 5px;
+    border-right: 1px solid black;
+    width: 30%
+}
+
+.skill-table th:nth-child(3), .skill-table td:nth-child(3) {
+    text-align: center;
+    padding-left: 5px;
+    border-right: 1px solid black;
+    width: 20%
+}
+
+.skill-table th:nth-child(4), .skill-table td:nth-child(4) {
+    text-align: center;
+    padding-left: 5px;
+    width: 20%
+}

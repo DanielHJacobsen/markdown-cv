@@ -1,13 +1,15 @@
 ---
 layout: cv
 title: Daniel Høyer Bjørnskov's CV
+color: lightblue
 ---
 # Daniel Høyer Bjørnskov
 Softwareingeniør & Softwarearkitekt.
 
 <div id="webaddress">
-<a href="daniel.h.bjornskov@gmail.com">Daniel.h.bjornskov@gmail.com</a>
-| <a href="www.integu.net">Blog</a>
+<a href="daniel.h.bjornskov@gmail.com">Daniel.h.bjornskov@gmail.com</a> 
+| <a href="www.integu.net">www.INTEGU.net</a>
+| <a href="https://www.linkedin.com/in/daniel-h%C3%B8yer-jacobsen/">www.linkedin.com/in/daniel-h%C3%B8yer-jacobsen</a>
 </div>
 
 
@@ -29,65 +31,65 @@ Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig f
 
 ## Primære kompetencer
 ### Frontend
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
-[![Android Badge](https://img.shields.io/badge/Android-green?logo=Android&labelColor=black)](#)
-[![Vue Badge](https://img.shields.io/badge/Vue-darkgreen?logo=vuedotjs&labelColor=black)](#)
-[![Angular Badge](https://img.shields.io/badge/Angular-darkred?logo=Angular&labelColor=black)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
-[![Gridstack Badge](https://img.shields.io/badge/Gridstack-lightblue)](#)
-[![Electron Badge](https://img.shields.io/badge/Electron-darkblue?logo=Electron&labelColor=black)](#)
-[![DevExtreme Badge](https://img.shields.io/badge/DevExtreme-blue)](#)
-[![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
-[![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-blue?logo=Puppeteer&labelColor=black)](#)
-[![Selenium Badge](https://img.shields.io/badge/Selenium-green?logo=Selenium&labelColor=black)](#)
-[![SPA Badge](https://img.shields.io/badge/SPA-yellow)](#)
-[![Jest Badge](https://img.shields.io/badge/Jest-orange)](#)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
+[![Android Badge](https://img.shields.io/badge/Android-{{page.color}}?logo=Android&labelColor=black)](#)
+[![Vue Badge](https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black)](#)
+[![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![Gridstack Badge](https://img.shields.io/badge/Gridstack-{{page.color}})](#)
+[![Electron Badge](https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black)](#)
+[![DevExtreme Badge](https://img.shields.io/badge/DevExtreme-{{page.color}})](#)
+[![NPM Badge](https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black)](#)
+[![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-{{page.color}}?logo=Puppeteer&labelColor=black)](#)
+[![Selenium Badge](https://img.shields.io/badge/Selenium-{{page.color}}?logo=Selenium&labelColor=black)](#)
+[![SPA Badge](https://img.shields.io/badge/SPA-{{page.color}})](#)
+[![Jest Badge](https://img.shields.io/badge/Jest-{{page.color}})](#)
 
 ### Backend
-[![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
-[![Python Badge](https://img.shields.io/badge/Python-blue?logo=Python&labelColor=black)](#)
-[![SQL Badge](https://img.shields.io/badge/SQL-darkblue?logo=mysql&labelColor=black)](#)
-[![Firebase Badge](https://img.shields.io/badge/Firebase-yellow?logo=Firebase&labelColor=black)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-green?logo=MongoDB&labelColor=black)](#)
-[![Karaf Badge](https://img.shields.io/badge/Karaf-blue)](#)
-[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
-[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-lightgreen)](#)
-[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-grey)](#)
-[![Pitest Badge](https://img.shields.io/badge/Pitest-red)](#)
+[![Java Badge](https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black)](#)
+[![Python Badge](https://img.shields.io/badge/Python-{{page.color}}?logo=Python&labelColor=black)](#)
+[![SQL Badge](https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black)](#)
+[![Firebase Badge](https://img.shields.io/badge/Firebase-{{page.color}}?logo=Firebase&labelColor=black)](#)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black)](#)
+[![Karaf Badge](https://img.shields.io/badge/Karaf-{{page.color}})](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
+[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
+[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
+[![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
 
 ### Full-stack
-[![MQTT Badge](https://img.shields.io/badge/MQTT-purple?logo=MQTT&labelColor=black)](#)
-[![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-blue?logo=JSON&labelColor=black)](#)
-[![Microservice Badge](https://img.shields.io/badge/Microservice-red)](#)
-[![API_design Badge](https://img.shields.io/badge/API_design-grey)](#)
+[![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
+[![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
+[![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
+[![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
 
 ### Dev-Ops
-[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
-[![Docker Badge](https://img.shields.io/badge/Docker-2497ed?logo=docker&labelColor=black)](#)
-[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
-[![SSH Badge](https://img.shields.io/badge/SSH-grey)](#)
-[![Ansible Badge](https://img.shields.io/badge/Ansible-red?logo=Ansible&labelColor=black)](#)
-[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
-[![Linux Badge](https://img.shields.io/badge/Linux-lightyellow?logo=Linux&labelColor=black)](#)
-[![RPM Badge](https://img.shields.io/badge/RPM-red)](#)
-[![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-orange)](#)
-[![Bash/SH Badge](https://img.shields.io/badge/Bash/SH_scripting-lightblue)](#)
-[![VMWare Badge](https://img.shields.io/badge/VMWare-darkblue?logo=VMWare&labelColor=black)](#)
-[![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightgrey)](#)
+[![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
+[![Docker Badge](https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black)](#)
+[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}})](#)
+[![SSH Badge](https://img.shields.io/badge/SSH-{{page.color}})](#)
+[![Ansible Badge](https://img.shields.io/badge/Ansible-{{page.color}}?logo=Ansible&labelColor=black)](#)
+[![TeamCity Badge](https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black)](#)
+[![Linux Badge](https://img.shields.io/badge/Linux-{{page.color}}?logo=Linux&labelColor=black)](#)
+[![RPM Badge](https://img.shields.io/badge/RPM-{{page.color}})](#)
+[![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-{{page.color}})](#)
+[![Bash/SH Badge](https://img.shields.io/badge/Bash/SH_scripting-{{page.color}})](#)
+[![VMWare Badge](https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black)](#)
+[![CI/CD Badge](https://img.shields.io/badge/CI/CD-{{page.color}})](#)
 
 ### Værktøjer
-[![Draw.io Badge](https://img.shields.io/badge/Draw.io-orange)](#)
-[![Confluence Badge](https://img.shields.io/badge/Confluence-blue?logo=Confluence&labelColor=black)](#)
-[![Arc42 Badge](https://img.shields.io/badge/Arc42-lightblue)](#)
-[![ED_109 Badge](https://img.shields.io/badge/ED109-lightred)](#)
-[![Jira Badge](https://img.shields.io/badge/Jira-lightgrey?logo=Jira&labelColor=black)](#)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-orange?logo=GitHub&labelColor=black)](#)
-[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
-[![PyCharm Badge](https://img.shields.io/badge/PyCharm-yellow)](#)
-[![CodeScene Badge](https://img.shields.io/badge/CodeScene-darkblue)](#)
+[![Draw.io Badge](https://img.shields.io/badge/Draw.io-{{page.color}})](#)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black)](#)
+[![Arc42 Badge](https://img.shields.io/badge/Arc42-{{page.color}})](#)
+[![ED_109 Badge](https://img.shields.io/badge/ED109-{{page.color}})](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-{{page.color}}?logo=GitHub&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
+[![PyCharm Badge](https://img.shields.io/badge/PyCharm-{{page.color}})](#)
+[![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 
 
 ## Karriereforløb & projekter
@@ -111,53 +113,52 @@ Involveringen i VCS-projektet har givet konsulenten en omfattende viden og erfar
 I rollen som softwarearkitekt har konsulents konkrete udviklingsopgaver varieret, fra Frontend- (f.eks. SPA webserver, Electron applikation eller interne NPM-pakker) og Backend-udvikling (f.eks. Concurrency-håndtering eller database- og ekstern protokol-integration), til DevOps-opgaver (f.eks. Ansible deployments, Docker debugging og Karaf-bundle-container håndtering).
 
 ### Kompetencer brugt
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
-[![Vue Badge](https://img.shields.io/badge/Vue-darkgreen?logo=vuedotjs&labelColor=black)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
-[![Gridstack Badge](https://img.shields.io/badge/Gridstack-lightblue)](#)
-[![Electron Badge](https://img.shields.io/badge/Electron-darkblue?logo=Electron&labelColor=black)](#)
-[![DevExtreme Badge](https://img.shields.io/badge/DevExtreme-blue)](#)
-[![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
-[![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-blue?logo=Puppeteer&labelColor=black)](#)
-[![Selenium Badge](https://img.shields.io/badge/Selenium-green?logo=Selenium&labelColor=black)](#)
-[![SPA Badge](https://img.shields.io/badge/SPA-yellow)](#)
-[![Jest Badge](https://img.shields.io/badge/Jest-orange)](#)
-[![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
-[![Python Badge](https://img.shields.io/badge/Python-blue?logo=Python&labelColor=black)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-green?logo=MongoDB&labelColor=black)](#)
-[![Karaf Badge](https://img.shields.io/badge/Karaf-blue)](#)
-[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
-[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-lightgreen)](#)
-[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-grey)](#)
-[![MQTT Badge](https://img.shields.io/badge/MQTT-purple?logo=MQTT&labelColor=black)](#)
-[![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-blue?logo=JSON&labelColor=black)](#)
-[![Microservice Badge](https://img.shields.io/badge/Microservice-red)](#)
-[![API_design Badge](https://img.shields.io/badge/API_design-grey)](#)
-[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
-[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
-[![Docker Badge](https://img.shields.io/badge/Docker-2497ed?logo=docker&labelColor=black)](#)
-[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
-[![SSH Badge](https://img.shields.io/badge/SSH-grey)](#)
-[![Ansible Badge](https://img.shields.io/badge/Ansible-red?logo=Ansible&labelColor=black)](#)
-[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
-[![Linux Badge](https://img.shields.io/badge/Linux-lightyellow?logo=Linux&labelColor=black)](#)
-[![RPM Badge](https://img.shields.io/badge/RPM-red)](#)
-[![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-orange)](#)
-[![Bash/SH Badge](https://img.shields.io/badge/Bash/SH_scripting-lightblue)](#)
-[![VMWare Badge](https://img.shields.io/badge/VMWare-darkblue?logo=VMWare&labelColor=black)](#)
-[![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightgrey)](#)
-[![Draw.io Badge](https://img.shields.io/badge/Draw.io-orange)](#)
-[![Confluence Badge](https://img.shields.io/badge/Confluence-blue?logo=Confluence&labelColor=black)](#)
-[![Arc42 Badge](https://img.shields.io/badge/Arc42-lightblue)](#)
-[![ED_109 Badge](https://img.shields.io/badge/ED109-lightred)](#)
-[![Jira Badge](https://img.shields.io/badge/Jira-lightgrey?logo=Jira&labelColor=black)](#)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
-[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
-[![PyCharm Badge](https://img.shields.io/badge/PyCharm-yellow)](#)
-[![Pitest Badge](https://img.shields.io/badge/Pitest-red)](#)
-[![CodeScene Badge](https://img.shields.io/badge/CodeScene-darkblue)](#)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
+[![Vue Badge](https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![Gridstack Badge](https://img.shields.io/badge/Gridstack-{{page.color}})](#)
+[![Electron Badge](https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black)](#)
+[![DevExtreme Badge](https://img.shields.io/badge/DevExtreme-{{page.color}})](#)
+[![NPM Badge](https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black)](#)
+[![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-{{page.color}}?logo=Puppeteer&labelColor=black)](#)
+[![Selenium Badge](https://img.shields.io/badge/Selenium-{{page.color}}?logo=Selenium&labelColor=black)](#)
+[![SPA Badge](https://img.shields.io/badge/SPA-{{page.color}})](#)
+[![Jest Badge](https://img.shields.io/badge/Jest-{{page.color}})](#)
+[![Java Badge](https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black)](#)
+[![Python Badge](https://img.shields.io/badge/Python-{{page.color}}?logo=Python&labelColor=black)](#)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black)](#)
+[![Karaf Badge](https://img.shields.io/badge/Karaf-{{page.color}})](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
+[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
+[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
+[![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
+[![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
+[![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
+[![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
+[![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
+[![Docker Badge](https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black)](#)
+[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}})](#)
+[![SSH Badge](https://img.shields.io/badge/SSH-{{page.color}})](#)
+[![Ansible Badge](https://img.shields.io/badge/Ansible-{{page.color}}?logo=Ansible&labelColor=black)](#)
+[![TeamCity Badge](https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black)](#)
+[![Linux Badge](https://img.shields.io/badge/Linux-{{page.color}}?logo=Linux&labelColor=black)](#)
+[![RPM Badge](https://img.shields.io/badge/RPM-{{page.color}})](#)
+[![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-{{page.color}})](#)
+[![Bash/SH Badge](https://img.shields.io/badge/Bash/SH_scripting-{{page.color}})](#)
+[![VMWare Badge](https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black)](#)
+[![CI/CD Badge](https://img.shields.io/badge/CI/CD-{{page.color}})](#)
+[![Draw.io Badge](https://img.shields.io/badge/Draw.io-{{page.color}})](#)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black)](#)
+[![Arc42 Badge](https://img.shields.io/badge/Arc42-{{page.color}})](#)
+[![ED_109 Badge](https://img.shields.io/badge/ED109-{{page.color}})](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
+[![PyCharm Badge](https://img.shields.io/badge/PyCharm-{{page.color}})](#)
+[![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
+[![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 
 `2018 - 2029`
 Saab Danmark, *Softwareingeniør*
@@ -169,33 +170,33 @@ I det første år hos Saab arbejdede konsulenten som Softwareingeniør på VCS-p
 I rollen som Softwareingeniør stod konsulenten for fremstillingen af en Electron desktop applikation baseret på et TypeScript projekt, udvikling af adskillige Java microservices og integration mellem applikationer med MQTT-protokollen.
 
 ### Kompetencer brugt
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
-[![Electron Badge](https://img.shields.io/badge/Electron-darkblue?logo=Electron&labelColor=black)](#)
-[![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
-[![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-blue?logo=Puppeteer&labelColor=black)](#)
-[![Jest Badge](https://img.shields.io/badge/Jest-orange)](#)
-[![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
-[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
-[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-lightgreen)](#)
-[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-grey)](#)
-[![MQTT Badge](https://img.shields.io/badge/MQTT-purple?logo=MQTT&labelColor=black)](#)
-[![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-blue?logo=JSON&labelColor=black)](#)
-[![Microservice Badge](https://img.shields.io/badge/Microservice-red)](#)
-[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
-[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
-[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
-[![RPM Badge](https://img.shields.io/badge/RPM-red)](#)
-[![VMWare Badge](https://img.shields.io/badge/VMWare-darkblue?logo=VMWare&labelColor=black)](#)
-[![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightgrey)](#)
-[![Confluence Badge](https://img.shields.io/badge/Confluence-blue?logo=Confluence&labelColor=black)](#)
-[![Jira Badge](https://img.shields.io/badge/Jira-lightgrey?logo=Jira&labelColor=black)](#)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
-[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
-[![Pitest Badge](https://img.shields.io/badge/Pitest-red)](#)
-[![CodeScene Badge](https://img.shields.io/badge/CodeScene-darkblue)](#)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![Electron Badge](https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black)](#)
+[![NPM Badge](https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black)](#)
+[![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-{{page.color}}?logo=Puppeteer&labelColor=black)](#)
+[![Jest Badge](https://img.shields.io/badge/Jest-{{page.color}})](#)
+[![Java Badge](https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black)](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
+[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
+[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
+[![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
+[![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
+[![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
+[![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
+[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}})](#)
+[![TeamCity Badge](https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black)](#)
+[![RPM Badge](https://img.shields.io/badge/RPM-{{page.color}})](#)
+[![VMWare Badge](https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black)](#)
+[![CI/CD Badge](https://img.shields.io/badge/CI/CD-{{page.color}})](#)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black)](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
+[![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
+[![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 
 `2018 - 2019`
 INTEGU, *Freelance Softwarekonsulent*
@@ -204,25 +205,25 @@ INTEGU, *Freelance Softwarekonsulent*
 Over en periode på et halvt år rejste konsulenten sammen med sin kone til Indien i forbindelse med hendes arbejde. Givet det succesfulde arbejdsforhold mellem kunden (tidligere arbejdsgiver Capgemini) og konsulenten, blev stillingen konverteret over til en freelance-stilling. Dermed kunne konsulenten fortsætte sit arbejde remote fra Indien gennem det halve år.
 
 ### Kompetencer brugt
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
-[![Angular Badge](https://img.shields.io/badge/Angular-darkred?logo=Angular&labelColor=black)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
-[![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
-[![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
-[![SQL Badge](https://img.shields.io/badge/SQL-darkblue?logo=mysql&labelColor=black)](#)
-[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
-[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-lightgreen)](#)
-[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
-[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
-[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
-[![VMWare Badge](https://img.shields.io/badge/VMWare-darkblue?logo=VMWare&labelColor=black)](#)
-[![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightgrey)](#)
-[![Confluence Badge](https://img.shields.io/badge/Confluence-blue?logo=Confluence&labelColor=black)](#)
-[![Jira Badge](https://img.shields.io/badge/Jira-lightgrey?logo=Jira&labelColor=black)](#)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
-[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
+[![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![NPM Badge](https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black)](#)
+[![Java Badge](https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black)](#)
+[![SQL Badge](https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black)](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
+[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
+[![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
+[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}})](#)
+[![TeamCity Badge](https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black)](#)
+[![VMWare Badge](https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black)](#)
+[![CI/CD Badge](https://img.shields.io/badge/CI/CD-{{page.color}})](#)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black)](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
 
 `2018 - 2019`
 Capgemini, *Softwareingeniør - Konsulent*
@@ -234,33 +235,138 @@ Hos Capgemini arbejdede konsulenten som softwareingeniør på et større booking
 Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil sige at arbejde med legacy-kode, herunder de forbehold og forholdsregler man bør tage hensyn til for at arbejde sikkert og effektivt i en 15+ år gammel kodebase
 
 ### Kompetencer brugt
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
-[![Angular Badge](https://img.shields.io/badge/Angular-darkred?logo=Angular&labelColor=black)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
-[![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
-[![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
-[![SQL Badge](https://img.shields.io/badge/SQL-darkblue?logo=mysql&labelColor=black)](#)
-[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
-[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-lightgreen)](#)
-[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
-[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
-[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
-[![VMWare Badge](https://img.shields.io/badge/VMWare-darkblue?logo=VMWare&labelColor=black)](#)
-[![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightgrey)](#)
-[![Confluence Badge](https://img.shields.io/badge/Confluence-blue?logo=Confluence&labelColor=black)](#)
-[![Jira Badge](https://img.shields.io/badge/Jira-lightgrey?logo=Jira&labelColor=black)](#)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
-[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-grey?logo=intellij-idea&labelColor=black)](#)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
+[![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}})](#)
+[![NPM Badge](https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black)](#)
+[![Java Badge](https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black)](#)
+[![SQL Badge](https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black)](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
+[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
+[![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
+[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}})](#)
+[![TeamCity Badge](https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black)](#)
+[![VMWare Badge](https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black)](#)
+[![CI/CD Badge](https://img.shields.io/badge/CI/CD-{{page.color}})](#)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black)](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
 
-## Publications
-### Lectures
+## Kompetenceskema
+### Roller
+<table class="skill-table">
+  <thead>
+    <tr><th>Rolle</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Softwarearkitekt</td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td>Softwareingeniør</td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td>SCRUM-master</td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
+  </tbody>
+</table>
+### Teknologier
+<table class="skill-table">
+  <thead>
+    <tr><th>Frontend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><img src="https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Android-{{page.color}}?logo=Android&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Puppeteer-{{page.color}}?logo=Puppeteer&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Selenium-{{page.color}}?logo=Selenium&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/DevExtreme-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Gridstack-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/CSS-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/SPA-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Jest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+  </tbody>
+</table>
+<br>
+<table class="skill-table">
+  <thead>
+    <tr><th>Backend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><img src="https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Python-{{page.color}}?logo=Python&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Firebase-{{page.color}}?logo=Firebase&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Karaf-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Maven-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/JUnit/Mockito-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Pitest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+  </tbody>
+</table>
+<br>
+<table class="skill-table">
+  <thead>
+    <tr><th>Full-stack Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><img src="https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Microservice-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/API_design-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+  </tbody>
+</table>
+<br>
+<table class="skill-table">
+  <thead>
+    <tr><th>DevOps Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><img src="https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Ansible-{{page.color}}?logo=Ansible&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Linux-{{page.color}}?logo=Linux&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/RPM-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Robot_Framework-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Bash/SH_scripting-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/SSH-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/CI/CD-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+  </tbody>
+</table>
+<br>
+<table class="skill-table">
+  <thead>
+    <tr><th>Værktøjer</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><img src="https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/GitHub-{{page.color}}?logo=GitHub&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/PyCharm-{{page.color}}?logo=intellij-idea&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/CodeScene-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Arc42-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/ED109-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Draw.io-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+  </tbody>
+</table>
+
+## Publikationer
+### Foredrag & Undervisning
 `2024`
 <img class="pub-img" src="https://media.licdn.com/dms/image/sync/D4D27AQGOiIaQZaLb9A/articleshare-shrink_800/0/1709539685996?e=1710511200&v=beta&t=1s1W-eJdMV6Ryma7pgsvKDdXviKEDSs4vLrIg85Hc34"/>
+<img class="pub-img" src="https://media.licdn.com/dms/image/D4E0BAQExG1iHYFa8VQ/company-logo_200_200/0/1692598721186/engineer_the_future_logo?e=2147483647&v=beta&t=oJG699nLsyTY69wUnZSZz1WJ1_-xptkFVoqjt_r0zcU"/>
 <div class="pub-text-grp">
-<p class="pub-text">IDA/SFA - Military Drones and development of military technologies - https://shorturl.at/bilyD</p>
-<p class="pub-text"></p>
+<p class="pub-text"><a href="https://ida.dk/arrangementer-og-kurser/arrangementer/military-drones-and-development-of-military-technologies-353988">IDA/SFA - Military Drones and development of military technologies <br><br> https://shorturl.at/bilyD</a></p>
+<p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">Fra idé til app - Problemløsning med iterativ softwareudvikling <br><br> https://shorturl.at/qyzNP</a></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
@@ -272,13 +378,14 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
 <img class="pub-img" src="https://integu.net/wp-content/uploads/2020/11/INTEGU-builder-design-pattern-overview.png"/>
 <img class="pub-img" src="https://integu.net/wp-content/uploads/2023/08/INTEGU-What-is-Ansible.png"/>
 <img class="pub-img" src="https://integu.net/wp-content/uploads/2022/04/INTEGU-Semantic-version-change-microservice-API-dependency.png"/>
+<img class="pub-img" src="https://integu.net/wp-content/uploads/2024/03/INTEGU-Artifactory-Jfrog.png"/>
 <br>
 <div class="pub-text-grp">
-<p class="pub-text">Solving Jest-Image-Snapshot Font Rendering Issues Within A Modern Branching Strategy</p>
-<p class="pub-text">Design Patterns In Java</p>
-<p class="pub-text">Introduction To Ansible</p>
-<p class="pub-text">How To Handle API Dependencies In A Microservice Architecture</p>
-<p class="pub-text"></p>
+<p class="pub-text"><a href="https://integu.net/jest-image-snapshot-test-setup-for-teamcity-with-diverse-os/">Solving Jest-Image-Snapshot Font Rendering Issues Within A Modern Branching Strategy <br><br> https://shorturl.at/jHPUW</a></p>
+<p class="pub-text"><a href="https://integu.net/design-patterns-in-java/">Design Patterns In Java <br><br> https://shorturl.at/eEKNV</a></p>
+<p class="pub-text"><a href="https://integu.net/introduction-to-ansible/">Introduction To Ansible <br><br> https://shorturl.at/FSTV0</a></p>
+<p class="pub-text"><a href="https://integu.net/how-to-handle-api-dependencies-in-a-microservice-architecture/">How To Handle API Dependencies In A Microservice Architecture <br><br> https://shorturl.at/suwBI</a></p>
+<p class="pub-text"><a href="https://integu.net/how-to-manage-internal-external-package-with-artifactory/">How To Manage Internal/External Package With Artifactory <br><br> https://shorturl.at/qHIN6</a></p>
 </div>
 
 

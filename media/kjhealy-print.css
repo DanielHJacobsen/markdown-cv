@@ -3,6 +3,8 @@
    License: none (public domain)
 */
 
+@import "common-styles.css";
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -189,29 +191,6 @@ strong {
 #ghbutton {
 	display: none;
 	visibility: hidden;
-}
-
-.pub-img {
-    border: solid;
-    border-radius: 20px;
-    height: 100px;
-    width: 100px;
-    filter: sepia(100%) hue-rotate(190deg) saturate(250%);
-}
-
-.pub-text {
-    left: 0%;
-    margin: 5px;
-    color: grey;
-    font-style: italic;
-    font-size: 6px;
-    width: 100px;
-}
-
-.pub-text-grp {
-    display: flex;
-    padding-left: 28%;
-    width: 72%
 }
 
 
