@@ -16,17 +16,28 @@ Softwareingeniør & Softwarearkitekt.
 ## Personlig profil
 
 Daniel Høyer Bjørnskov er en udadvendt softwareingeniør med erfaring inden for både kompleks softwareudvikling- og design samt etablering og udvikling af softwareteams og –processer.
+<br>
+<br>
+Konsulenten har erfaring med både frontend-, backend-  og fullstack-opgaver og har tidligere også berørt DevOps-rollen. De seneste fire år har han primært beskæftiget sig med rollen som Softwarearkitekt (løsningsarkitekt), men også Agile/Scrum teamledelse og en række udviklingsopgaver.
+<br>
+<br>
+I nedenstående sektion kan eksempler for konsulentens seneste opgaver inden for respektive kategorier ses.
+<br>
+<br>
+- **Frontend**: Udvikling af SPA (Single Page Application) website med Vue baseret DevExtreme. Udvikling af "Vanilla JS" og Typescript Electron desktop applikation. Fremstilling af CI/CD-pipeline til at varetag Puppeteer snapshot tests med 0% fejl-tolerance.<br><br>
+- **Backend**: Concurrency/multithread-håndtering eller database- og ekstern protokol-integration. Udvikling af fælles Maven repository via Artifactory/Jfrog (lignende opgaver løst for intern NPM-pakker).<br><br>
+- **Fullstack**: API-design (JSON schema-standard) og tilhørende implementering for flere microservices. Vidensdeling af arkitektur- og tekniske valg til et større udviklingsteam med værktøjer som Confluence, Draw.io og Arc42.<br><br>
+- **DevOps**: Fremstillede Ansible deployment på CI/CD-pipeline (TeamCity) i samarbejde med Docker containers. Deployment'en varetog overførsel og installation af RPM-filer, Docker-containers og konfigurationsfiler på flere enheder og på tværs af flere netværker.
 
-Konsulenten har erfaring med både frontend-, backend-  og fullstack-opgaver og har tidligere også berørt DevOps-rollen. De seneste fire år har han primært beskæftiget sig med rollen som Softwarearkitekt, men også Agile/Scrum teamledelse og en række udviklingsopgaver. I nedenstående sektion kan eksempler for konsulentens seneste opgaver inden for respektive kategorier ses.
-- **Frontend**: SPA website med DevExtreme eller Electron desktop applikation.
-- **Backend**: Concurrency-håndtering eller database- og ekstern protokol-integration.
-- **Full-stack**: API-design (JSON schema-standard) og tilhørende implementering for multiple microservices.
-- **DevOps**: Fremstillede af Ansible deployment på CI/CD-pipeline i samarbejde med Docker containers.
-
-Konsulenten befinder sig godt i et krydsfelt mellem udviklingsrollen og opgaver af mere arkitektonisk karakter – og han står gerne i spidsen for et team.
-
+<br>
+Konsulenten befinder sig godt i et krydsfelt mellem udviklingsrollen og opgaver af mere arkitektonisk karakter – og han står gerne i spidsen for et team. 
+<br>
+<br>
+I rollen som team-lead, har konsulenten implementeret kvalitetsøgende processer som Robot Framework på tværs af flere enheder og netværker.
+Yderligere har konsulenten også ledt nye højere standarder for kodekvalitet via statiske kode analyse tools. F.eks. CodeScene, Pitest, Robot Framework m.m.
+<br>
+<br>
 Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig forventning, som alle er drivkræfter for konsulentens arbejde. Konsulenten påtager sig et stort ansvar for, at hans og/eller teamets opgaver bliver løst efter bedste evne, så man får hjulpet kunden godt i mål.
-
 ## Primære kompetencer
 ### Frontend
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
@@ -89,6 +100,8 @@ Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig f
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
 [![PyCharm Badge](https://img.shields.io/badge/PyCharm-{{page.color}})](#)
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
+[![Jekyll_Markdown Badge](https://img.shields.io/badge/Jekyll_Markdown-{{page.color}})](#)
+[![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 
 <div class="page-break-after"></div>
 
@@ -110,7 +123,7 @@ Foruden design og udvikling, omfattede konsulentens rolle også facilitering af 
 Involveringen i VCS-projektet har givet konsulenten en omfattende viden og erfaring med microservice-arkitekturer, flere programmeringssprog og teknologier samt praktisk erfaring med at drive højkvalitets-softwareleverancer.
 <br>
 <br>
-I rollen som softwarearkitekt har konsulents konkrete udviklingsopgaver varieret, fra Frontend- (f.eks. SPA webserver, Electron applikation eller interne NPM-pakker) og Backend-udvikling (f.eks. Concurrency-håndtering eller database- og ekstern protokol-integration), til DevOps-opgaver (f.eks. Ansible deployments, Docker debugging og Karaf-bundle-container håndtering).
+I rollen som softwarearkitekt har konsulentens konkrete udviklingsopgaver varieret, fra Frontend- (f.eks. SPA webserver, Electron applikation eller interne NPM-pakker) og Backend-udvikling (f.eks. Concurrency-håndtering eller database- og ekstern protokol-integration), til DevOps-opgaver (f.eks. Ansible deployments, Docker debugging og Karaf-bundle-container håndtering).
 
 ### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
@@ -160,6 +173,8 @@ I rollen som softwarearkitekt har konsulents konkrete udviklingsopgaver varieret
 [![PyCharm Badge](https://img.shields.io/badge/PyCharm-{{page.color}})](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
+[![Jekyll_Markdown Badge](https://img.shields.io/badge/Jekyll_Markdown-{{page.color}})](#)
+[![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 
 `2018 - 2029`
 Saab Danmark, *Softwareingeniør*
@@ -168,8 +183,10 @@ Saab Danmark, *Softwareingeniør*
 I det første år hos Saab arbejdede konsulenten som Softwareingeniør på VCS-projektet. Grundet god udvikling i rollen og uddannelse gennem Teknologisk Institut og Dansk IT (System Architect - Practitioner) blev konsulenten efter et år forfremmet til rollen som Softwarearkitekt.
 <br>
 <br>
-I rollen som Softwareingeniør stod konsulenten for fremstillingen af en Electron desktop applikation baseret på et TypeScript projekt, udvikling af adskillige Java microservices og integration mellem applikationer med MQTT-protokollen.
-
+I rollen som Softwareingeniør stod konsulenten for fremstillingen af en Electron desktop applikation baseret på et "Vanilla JS" og TypeScript projekt, udvikling af adskillige Java microservices og integration mellem applikationer med MQTT-protokollen.
+<br>
+<br>
+Givet at VCS-produktet håndterer både radio og telefoni kommunikation (SIP- og RTP/RTCP-protokol), har konsulenten også opbygget en god erfaring med at debugge med værktøjer som Wireshark.
 ### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
@@ -198,6 +215,7 @@ I rollen som Softwareingeniør stod konsulenten for fremstillingen af en Electro
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
+[![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 
 `2018 - 2019`
 INTEGU, *Freelance Softwarekonsulent*
@@ -230,10 +248,10 @@ Over en periode på et halvt år rejste konsulenten sammen med sin kone til Indi
 Capgemini, *Softwareingeniør - Konsulent*
 <br>
 <br>
-Hos Capgemini arbejdede konsulenten som softwareingeniør på et større bookingsystem til sundhedsvæsenet. Konsulenten voksede hurtigt i sin rolle (f.eks. OCA-certificering) og arbejdede med en række forskellige udviklingsværktøjer og -tjenester – alt sammen inden for et etableret SCRUM-projekt.
+Hos Capgemini arbejdede konsulenten som softwareingeniør på et større bookingsystem til sundhedsvæsenet. Konsulenten voksede hurtigt i sin rolle (f.eks. Java 8 OCA-certificering) og arbejdede med en række forskellige udviklingsværktøjer og -tjenester – alt sammen inden for et etableret SCRUM-projekt.
 <br>
 <br>
-Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil sige at arbejde med legacy-kode, herunder de forbehold og forholdsregler man bør tage hensyn til for at arbejde sikkert og effektivt i en 15+ år gammel kodebase
+Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil sige at arbejde med legacy-kode, herunder de forbehold og forholdsregler man bør tage hensyn til for at arbejde sikkert og effektivt i en 15+ år gammel kodebase.
 
 ### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
@@ -360,6 +378,8 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
     <tr><td><img src="https://img.shields.io/badge/Arc42-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/ED109-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>2</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Draw.io-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>3</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Jekyll_Markdown-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Wireshark-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
 
