@@ -24,7 +24,7 @@ adding your skills, jobs and education.
 
 To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
 
-### I. Use Github Pages to publish it online
+### I. Use GitHub Pages to publish it online
 
 1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
 2. Create a new branch called `gh-pages`.
@@ -42,15 +42,13 @@ Any change you want to make to your CV from then on would have to be done on the
 
 ## Styling
 
-The included CSS will render your CV in two styles:
+The included CSS will render your CV in one style:
 s
 1. `kjhealy` the original default, inspired by [kjhealy's vita
 template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
 
 To change the default style, simply change the variable in the
-`_config.yml` file.
+`_config.yml` file (given more layouts are added).
 
 Any other styling is possible. More CSS style contributions and forks are welcome!
 
@@ -59,6 +57,8 @@ Any other styling is possible. More CSS style contributions and forks are welcom
 Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
 ![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+
+- Forked by Daniel H. Bjørnskov.
 
 ### License
 

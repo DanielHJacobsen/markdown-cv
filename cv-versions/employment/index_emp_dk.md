@@ -1,10 +1,10 @@
 ---
 layout: cv
-title: Daniel Høyer Bjørnskov's CV - Freelance - English
+title: Daniel Høyer Bjørnskovs CV - Dansk
 color: lightblue
 ---
 # Daniel Høyer Bjørnskov
-Software Engineer & Software Architect.
+Softwareingeniør & Softwarearkitekt.
 
 <div id="webaddress">
 <a href="daniel.h.bjornskov@gmail.com">Daniel.h.bjornskov@gmail.com</a> 
@@ -13,32 +13,32 @@ Software Engineer & Software Architect.
 </div>
 
 
-## Personal Profil
+## Personlig profil
 
-Daniel Høyer Bjørnskov is an outgoing software engineer with experience in both complex software development and design as well as establishing and developing software teams and processes.
+Mit navn er Daniel Høyer Bjørnskov og jeg er en udadvendt softwareingeniør med erfaring inden for både kompleks softwareudvikling- og design samt etablering og udvikling af softwareteams og –processer.
 <br>
 <br>
-The consultant has experience with both frontend, backend and fullstack tasks and has previously also touched on the DevOps role. For the past four years, he has primarily dealt with the role of Software Architect (solution architect), but also Agile/Scrum team management and a number of development tasks.
+Jeg har erfaring med både frontend-, backend-  og fullstack-opgaver og har tidligere også berørt DevOps-rollen. De seneste fire år har jeg primært beskæftiget mig med rollen som Softwarearkitekt (løsningsarkitekt), men også Agile/Scrum teamledelse og en række udviklingsopgaver.
 <br>
 <br>
-In the section below, examples of the consultant's most recent tasks within respective categories can be seen.
+I nedenstående sektion kan eksempler for mine seneste opgaver inden for respektive kategorier ses.
 <br>
 <br>
-- **Frontend**: Development of SPA (Single Page Application) website with Vue based DevExtreme. Development of "Vanilla JS" and Typescript Electron desktop application. Creating CI/CD pipeline to handle Puppeteer snapshot tests with 0% fault tolerance.<br><br>
-- **Backend**: Concurrency/multithread-handling or database and external protocol integration. Development of common Maven repositories via Artifactory/Jfrog (similar tasks solved for internal NPM packages).<br><br>
-- **Fullstack**: API design (JSON schema standard) and associated implementation for multiple microservices. Knowledge sharing of architecture and technical choices to a larger development team with tools like Confluence, Draw.io and Arc42.<br><br>
-- **DevOps**: Produced Ansible deployment on CI/CD pipeline (TeamCity) in collaboration with Docker containers. The deployment handled the transfer and installation of RPM files, Docker containers and configuration files on multiple devices and across multiple networks.
+- **Frontend**: Udvikling af SPA (Single Page Application) website med Vue baseret DevExtreme. Udvikling af "Vanilla JS" og Typescript Electron desktop applikation. Fremstilling af CI/CD-pipeline til at varetag Puppeteer snapshot tests med 0% fejl-tolerance.<br><br>
+- **Backend**: Concurrency/multithread-håndtering eller database- og ekstern protokol-integration. Udvikling af fælles Maven repository via Artifactory/Jfrog (lignende opgaver løst for intern NPM-pakker).<br><br>
+- **Fullstack**: API-design (JSON schema-standard) og tilhørende implementering for flere microservices. Vidensdeling af arkitektur- og tekniske valg til et større udviklingsteam med værktøjer som Confluence, Draw.io og Arc42.<br><br>
+- **DevOps**: Fremstillede Ansible deployment på CI/CD-pipeline (TeamCity) i samarbejde med Docker containers. Deployment'en varetog overførsel og installation af RPM-filer, Docker-containers og konfigurationsfiler på flere enheder og på tværs af flere netværker.
 
 <br>
-The consultant finds himself well at the crossroads between the development role and tasks of a more architectural nature - and he likes to be at the head of a team.
+Jeg befinder sig godt i et krydsfelt mellem udviklingsrollen og opgaver af mere arkitektonisk karakter – og jeg står gerne i spidsen for et team. 
 <br>
 <br>
-In the role of team-lead, the consultant has implemented quality-enhancing processes such as the Robot Framework across several units and networks.
-In addition, the consultant has also led new higher standards for code quality via static code analysis tools. Eg. CodeScene, Pitest, Robot Framework, etc.
+I rollen som team-lead, har jeg implementeret kvalitetsøgende processer som Robot Framework på tværs af flere enheder og netværker.
+Yderligere har jeg også ledt nye højere standarder for kodekvalitet via statiske kode analyse tools. F.eks. CodeScene, Pitest, Robot Framework m.m.
 <br>
 <br>
-The consultant has a high level of initiative, ambition and personal expectation, all of which are driving forces for the consultant's work. The consultant assumes a great deal of responsibility for his and/or the team's tasks being solved to the best of their ability, so that the customer is helped well to the goal.
-## Primary competencies
+Jeg har et højt niveau af initiativ, ambition og personlig forventning, som alle er drivkræfter for mit arbejde. Jeg påtager mig et stort ansvar for, at mit og/eller teamets opgaver bliver løst efter bedste evne, så man får hjulpet produktet godt i mål.
+## Primære kompetencer
 ### Frontend
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
@@ -69,13 +69,13 @@ The consultant has a high level of initiative, ambition and personal expectation
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
 
-### Fullstack
+### Full-stack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
 [![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
 
-### DevOps
+### Dev-Ops
 [![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black)](#)
 [![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}})](#)
@@ -89,7 +89,7 @@ The consultant has a high level of initiative, ambition and personal expectation
 [![VMWare Badge](https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black)](#)
 [![CI/CD Badge](https://img.shields.io/badge/CI/CD-{{page.color}})](#)
 
-### Tools
+### Værktøjer
 [![Draw.io Badge](https://img.shields.io/badge/Draw.io-{{page.color}})](#)
 [![Confluence Badge](https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black)](#)
 [![Arc42 Badge](https://img.shields.io/badge/Arc42-{{page.color}})](#)
@@ -105,27 +105,27 @@ The consultant has a high level of initiative, ambition and personal expectation
 
 <div class="page-break-after"></div>
 
-## Career & projects
+## Karriereforløb & projekter
 
-`2019 - 2024`
-Saab Danmark, *Software Architect*
+`2019 - Nuværende`
+Saab Danmark, *Softwarearkitekt*
 <br>
 <br>
-As a software architect at Saab, Daniel's primary task was to design and develop the advanced TactiCall VCS product for the civil and military aviation industry.
+Som softwarearkitekt hos Saab er min primære opgave at designe og udvikle det avancerede TactiCall VCS-produkt til civil og militær luftfartsindustri.
 <br>
 <br>
-During Daniel's time as software architect on the project, both the product and the team have experienced rapid development. The product has gone from consisting of a few lines of code to today being a full commercial system. At the same time, the team has grown from just three developers to today consisting of 10 developers and 2 testers.
+I min tid som softwarearkitekt på projektet har både produktet og teamet oplevet en rivende udvikling. Produktet er gået fra at bestå af nogle få kodelinjer til i dag at være et fuldt kommercielt system. Samtidig er teamet vokset fra kun tre udviklere til i dag at bestå af 10 udviklere og 2 testere.
 <br>
 <br>
-In addition to design and development, the consultant's role also included facilitating the development process. It was therefore also his responsibility to coordinate deadlines for the development team, stand-up/retrospective/kickoff facilitation (SCRUM master tasks) as well as long-term development planning and strategy.
+Foruden design og udvikling, omfattede min rolle også facilitering af udviklingsprocessen. Det var derfor også mit ansvar at koordinere deadlines for udviklingsteamet, stand-up/retrospektiv/kickoff facilitering (SCRUM-master opgaver) samt langsigtet udviklingsplanlægning og -strategi.
 <br>
 <br>
-The involvement in the VCS project has given the consultant extensive knowledge and experience with microservice architectures, multiple programming languages and technologies, as well as hands-on experience in driving high-quality software deliveries.
+Involveringen i VCS-projektet har givet mig en omfattende viden og erfaring med microservice-arkitekturer, flere programmeringssprog og teknologier samt praktisk erfaring med at drive højkvalitets-softwareleverancer.
 <br>
 <br>
-In the role of software architect, the consultant's specific development tasks have varied, from Frontend (e.g. SPA web server, Electron application or internal NPM packages) and Backend development (e.g. Concurrency handling or database and external protocol integration) , for DevOps tasks (e.g. Ansible deployments, Docker debugging and Karaf bundle container handling).
+I rollen som softwarearkitekt har mine konkrete udviklingsopgaver varieret, fra Frontend- (f.eks. SPA webserver, Electron applikation eller interne NPM-pakker) og Backend-udvikling (f.eks. Concurrency-håndtering eller database- og ekstern protokol-integration), til DevOps-opgaver (f.eks. Ansible deployments, Docker debugging og Karaf-bundle-container håndtering).
 
-### Skills utilized
+### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![Vue Badge](https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black)](#)
@@ -177,17 +177,17 @@ In the role of software architect, the consultant's specific development tasks h
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 
 `2018 - 2029`
-Saab Danmark, *Software Engieneer*
+Saab Danmark, *Softwareingeniør*
 <br>
 <br>
-In the first year at Saab, the consultant worked as a Software Engineer on the VCS project. Due to good development in the role and training through the Technological Institute and Danish IT (System Architect - Practitioner), the consultant was promoted to the role of Software Architect after one year.
+I det første år hos Saab arbejdede jeg som Softwareingeniør på VCS-projektet. Grundet god udvikling i rollen og uddannelse gennem Teknologisk Institut og Dansk IT (System Architect - Practitioner) blev jeg efter et år forfremmet til rollen som Softwarearkitekt.
 <br>
 <br>
-In the role of Software Engineer, the consultant was responsible for the production of an Electron desktop application based on a "Vanilla JS" and TypeScript project, development of several Java microservices and integration between applications with the MQTT protocol.
+I rollen som Softwareingeniør stod jeg for fremstillingen af en Electron desktop applikation baseret på et "Vanilla JS" og TypeScript projekt, udvikling af adskillige Java microservices og integration mellem applikationer med MQTT-protokollen.
 <br>
 <br>
-Given that the VCS product handles both radio and telephony communication (SIP and RTP/RTCP protocol), the consultant has also built up good experience in debugging with tools such as Wireshark.
-### Skills utilized
+Givet at VCS-produktet håndterer både radio og telefoni kommunikation (SIP- og RTP/RTCP-protokol), har jeg også opbygget en god erfaring med at debugge med værktøjer som Wireshark.
+### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
@@ -218,12 +218,12 @@ Given that the VCS product handles both radio and telephony communication (SIP a
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 
 `2018 - 2019`
-INTEGU, *Freelance Software Consultant*
+INTEGU, *Freelance Softwarekonsulent*
 <br>
 <br>
-Over a period of half a year, the consultant traveled to India with his wife in connection with her work. Given the successful working relationship between the client (former employer Capgemini) and the consultant, the position was converted to a freelance position. This allowed the consultant to continue his work remotely from India throughout the six months.
+Over en periode på et halvt år rejste jeg sammen med sin kone til Indien i forbindelse med hendes arbejde. Givet det succesfulde arbejdsforhold med tidligere arbejdsgiver Capgemini, blev stillingen konverteret over til en freelance-stilling. Dermed kunne jeg fortsætte sit arbejde remote fra Indien gennem det halve år.
 
-### Skills utilized
+### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
@@ -245,15 +245,15 @@ Over a period of half a year, the consultant traveled to India with his wife in 
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
 
 `2018 - 2019`
-Capgemini, *Software Engineer - Consultant*
+Capgemini, *Softwareingeniør - Konsulent*
 <br>
 <br>
-At Capgemini, the consultant worked as a software engineer on a major booking system for the healthcare system. The consultant quickly grew in his role (eg Java 8 OCA certification) and worked with a variety of development tools and services – all within an established SCRUM project.
+Hos Capgemini arbejdede jeg som softwareingeniør på et større bookingsystem til sundhedsvæsenet. Jeg voksede hurtigt i sin rolle (f.eks. Java 8 OCA-certificering) og arbejdede med en række forskellige udviklingsværktøjer og -tjenester – alt sammen inden for et etableret SCRUM-projekt.
 <br>
 <br>
-During this employment, the consultant gained an in-depth insight into what it means to work with legacy code, including the caveats and precautions that should be taken into account in order to work safely and efficiently in a 15+ year old codebase.
+Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at arbejde med legacy-kode, herunder de forbehold og forholdsregler man bør tage hensyn til for at arbejde sikkert og effektivt i en 15+ år gammel kodebase.
 
-### Skills utilized
+### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
@@ -276,22 +276,22 @@ During this employment, the consultant gained an in-depth insight into what it m
 
 <div class="page-break-after"></div>
 
-## Skill table
-### Roles
+## Kompetenceskema
+### Roller
 <table class="skill-table">
   <thead>
-    <tr><th>Roles</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Rolle</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td>Software Architect</td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
-    <tr><td>Software Engineer</td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td>Softwarearkitekt</td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td>Softwareingeniør</td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
     <tr><td>SCRUM-master</td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-### Frontend Technologies
+### Frontend Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>Frontend Technologies</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Frontend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
@@ -311,10 +311,10 @@ During this employment, the consultant gained an in-depth insight into what it m
     <tr><td><img src="https://img.shields.io/badge/Jest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-### Backend Technologies
+### Backend Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>Backend Technologies</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Backend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
@@ -330,10 +330,10 @@ During this employment, the consultant gained an in-depth insight into what it m
     <tr><td><img src="https://img.shields.io/badge/Pitest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-### Fullstack Technologies
+### Full-stack Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>Fullstack Technologies</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Full-stack Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
@@ -342,10 +342,10 @@ During this employment, the consultant gained an in-depth insight into what it m
     <tr><td><img src="https://img.shields.io/badge/API_design-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-### DevOps Technologies
+### DevOps Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>DevOps Technologies</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>DevOps Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
@@ -362,10 +362,10 @@ During this employment, the consultant gained an in-depth insight into what it m
     <tr><td><img src="https://img.shields.io/badge/CI/CD-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-### Tools
+### Værktøjer
 <table class="skill-table">
   <thead>
-    <tr><th>Tools</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Værktøjer</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
@@ -383,14 +383,14 @@ During this employment, the consultant gained an in-depth insight into what it m
   </tbody>
 </table>
 
-## Publications
-### Presentations & Lectures
+## Publikationer
+### Foredrag & Undervisning
 `2024`
 <img class="pub-img" src="https://media.licdn.com/dms/image/sync/D4D27AQGOiIaQZaLb9A/articleshare-shrink_800/0/1709539685996?e=1710511200&v=beta&t=1s1W-eJdMV6Ryma7pgsvKDdXviKEDSs4vLrIg85Hc34"/>
 <img class="pub-img" src="https://media.licdn.com/dms/image/D4E0BAQExG1iHYFa8VQ/company-logo_200_200/0/1692598721186/engineer_the_future_logo?e=2147483647&v=beta&t=oJG699nLsyTY69wUnZSZz1WJ1_-xptkFVoqjt_r0zcU"/>
 <div class="pub-text-grp">
 <p class="pub-text"><a href="https://ida.dk/arrangementer-og-kurser/arrangementer/military-drones-and-development-of-military-technologies-353988">IDA/SFA - Military Drones and development of military technologies <br><br> https://shorturl.at/bilyD</a></p>
-<p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">From idea to app - Problem solving with iterative software development<br><br> https://shorturl.at/qyzNP</a></p>
+<p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">Fra idé til app - Problemløsning med iterativ softwareudvikling <br><br> https://shorturl.at/qyzNP</a></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
@@ -412,7 +412,7 @@ During this employment, the consultant gained an in-depth insight into what it m
 <p class="pub-text"><a href="https://integu.net/how-to-manage-internal-external-package-with-artifactory/">How To Manage Internal/External Package With Artifactory <br><br> https://shorturl.at/qHIN6</a></p>
 </div>
 
-### Education & Certifications
+### Uddannelse og certificeringer
 
 `2023`
 Eurocea ED-109 (software assurance level) certified
