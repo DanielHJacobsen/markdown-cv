@@ -12,6 +12,7 @@ Softwareingeniør & Softwarearkitekt.
 | <a href="https://www.linkedin.com/in/daniel-h%C3%B8yer-jacobsen/">www.linkedin.com/in/daniel-h%C3%B8yer-jacobsen</a>
 </div>
 
+<img class="headshot-img" src="../resources/Headshot.jpg"/>
 
 ## Personlig profil
 

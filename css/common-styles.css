@@ -68,3 +68,14 @@
 .career-title {
     font-size: 20px;
 }
+
+.headshot-img {
+     height: 110px;
+     width: 110px;
+     filter: sepia(100%) hue-rotate(190deg) saturate(150%) drop-shadow(0 0 0.50rem black);
+     position: absolute;
+     top: -75px;
+     left: -200px;
+     border-radius: 50%;
+     border: solid black 3px;
+}
