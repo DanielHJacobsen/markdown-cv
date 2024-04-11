@@ -66,6 +66,7 @@ The consultant has a high level of initiative, ambition and personal expectation
 [![Redis Badge](https://img.shields.io/badge/Redis-{{page.color}}?logo=Redis&labelColor=black)](#)
 [![Karaf Badge](https://img.shields.io/badge/Karaf-{{page.color}})](#)
 [![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
+[![Gradle Badge](https://img.shields.io/badge/Gradle-{{page.color}}?logo=Gradle&labelColor=black)](#)
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
@@ -234,6 +235,7 @@ Over a period of half a year, the consultant traveled to India with his wife in 
 [![Java Badge](https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black)](#)
 [![SQL Badge](https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black)](#)
 [![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
+[![Gradle Badge](https://img.shields.io/badge/Gradle-{{page.color}}?logo=Gradle&labelColor=black)](#)
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
 [![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
 [![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}})](#)
@@ -324,6 +326,7 @@ During this employment, the consultant gained an in-depth insight into what it m
     <tr><td><img src="https://img.shields.io/badge/Firebase-{{page.color}}?logo=Firebase&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2020</td></tr>
     <tr><td><img src="https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Redis-{{page.color}}?logo=Redis&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2023</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Gradle-{{page.color}}?logo=Gradle&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>6</td><td>2019</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Karaf-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>2</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Maven-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>6</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/JUnit/Mockito-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
