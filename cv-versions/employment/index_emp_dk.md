@@ -390,10 +390,10 @@ Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at a
 ## Publikationer
 ### Foredrag & Undervisning
 `2024`
-<img class="pub-img" src="https://media.licdn.com/dms/image/sync/D4D27AQGOiIaQZaLb9A/articleshare-shrink_800/0/1709539685996?e=1710511200&v=beta&t=1s1W-eJdMV6Ryma7pgsvKDdXviKEDSs4vLrIg85Hc34"/>
+<img class="pub-img" src="https://integu.net/wp-content/uploads/2024/03/IDA-SFA-LinkedIn-Image-4.jpg"/>
 <img class="pub-img" src="https://media.licdn.com/dms/image/D4E0BAQExG1iHYFa8VQ/company-logo_200_200/0/1692598721186/engineer_the_future_logo?e=2147483647&v=beta&t=oJG699nLsyTY69wUnZSZz1WJ1_-xptkFVoqjt_r0zcU"/>
 <div class="pub-text-grp">
-<p class="pub-text"><a href="https://ida.dk/arrangementer-og-kurser/arrangementer/military-drones-and-development-of-military-technologies-353988">IDA/SFA - Military Drones and development of military technologies <br><br> https://shorturl.at/bilyD</a></p>
+<p class="pub-text"><a href="https://integu.net/ida-sfa/">IDA/SFA - Military Drones and development of military technologies <br><br> https://integu.net/ida-sfa/</a></p>
 <p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">Fra idé til app - Problemløsning med iterativ softwareudvikling <br><br> https://shorturl.at/qyzNP</a></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>

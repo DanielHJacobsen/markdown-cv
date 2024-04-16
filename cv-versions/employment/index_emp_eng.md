@@ -25,9 +25,9 @@ I have experience with both frontend, backend and fullstack tasks and has previo
 In the section below, examples of my most recent tasks within respective categories can be seen.
 <br>
 <br>
-- **Frontend**: Development of SPA (Single Page Application) website with Vue basedDevExtreme. Development of “Vanilla JS” and Typescript Electron desktop application. Creating CI/CD pipeline to handle Puppeteer snapshot tests with 0%fault tolerance.
-- **Backend**: Concurrency/multithread-handling or database and external protocol integration. Development of common Maven repositories via Artifactory/Jfrog(similar tasks solved for internal NPM packages).
-- **Fullstack**: API design (JSON schema standard) and associated implementation for multiple microservices. Knowledge sharing of architecture and technical choices toa larger development team with tools like Confluence, Draw.io and Arc42.
+- **Frontend**: Development of SPA (Single Page Application) website with Vue basedDevExtreme. Development of “Vanilla JS” and Typescript Electron desktop application. Creating CI/CD pipeline to handle Puppeteer snapshot tests with 0%fault tolerance. <br><br>
+- **Backend**: Concurrency/multithread-handling or database and external protocol integration. Development of common Maven repositories via Artifactory/Jfrog(similar tasks solved for internal NPM packages). <br><br>
+- **Fullstack**: API design (JSON schema standard) and associated implementation for multiple microservices. Knowledge sharing of architecture and technical choices toa larger development team with tools like Confluence, Draw.io and Arc42. <br><br>
 - **DevOps**: Produced Ansible deployment on CI/CD pipeline (TeamCity) in collaboration with Docker containers. The deployment handled the transfer and installation ofRPM files, Docker containers and configuration files on multiple devices and across multiple networks.
 
 <br>
@@ -390,11 +390,11 @@ During this employment, I gained an in-depth insight into what it means to work 
 ## Publications
 ### Presentations & Lectures
 `2024`
-<img class="pub-img" src="https://media.licdn.com/dms/image/sync/D4D27AQGOiIaQZaLb9A/articleshare-shrink_800/0/1709539685996?e=1710511200&v=beta&t=1s1W-eJdMV6Ryma7pgsvKDdXviKEDSs4vLrIg85Hc34"/>
+<img class="pub-img" src="https://integu.net/wp-content/uploads/2024/03/IDA-SFA-LinkedIn-Image-4.jpg"/>
 <img class="pub-img" src="https://media.licdn.com/dms/image/D4E0BAQExG1iHYFa8VQ/company-logo_200_200/0/1692598721186/engineer_the_future_logo?e=2147483647&v=beta&t=oJG699nLsyTY69wUnZSZz1WJ1_-xptkFVoqjt_r0zcU"/>
 <div class="pub-text-grp">
-<p class="pub-text"><a href="https://ida.dk/arrangementer-og-kurser/arrangementer/military-drones-and-development-of-military-technologies-353988">IDA/SFA - Military Drones and development of military technologies <br><br> https://shorturl.at/bilyD</a></p>
-<p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">From idea to app - Problem solving with iterative software development<br><br> https://shorturl.at/qyzNP</a></p>
+<p class="pub-text"><a href="https://integu.net/ida-sfa/">IDA/SFA - Military Drones and development of military technologies <br><br> https://integu.net/ida-sfa/</a></p>
+<p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">From idea to app - Problem-solving with iterative software development<br><br> https://shorturl.at/qyzNP</a></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
