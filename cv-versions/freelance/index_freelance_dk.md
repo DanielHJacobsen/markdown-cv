@@ -70,6 +70,7 @@ Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig f
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
+[![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 
 ### Full-stack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
@@ -177,6 +178,7 @@ I rollen som softwarearkitekt har konsulentens konkrete udviklingsopgaver varier
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 [![Jekyll_Markdown Badge](https://img.shields.io/badge/Jekyll_Markdown-{{page.color}})](#)
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
+[![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 
 `2018 - 2029`
 Saab Danmark, *Softwareingeniør*
@@ -332,6 +334,7 @@ Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil s
     <tr><td><img src="https://img.shields.io/badge/JUnit/Mockito-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Pitest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/LDAP-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2024</td></tr>
   </tbody>
 </table>
 ### Full-stack Teknologier

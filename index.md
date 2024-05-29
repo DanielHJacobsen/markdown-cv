@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Daniel Høyer Bjørnskov's CV - Freelance - English
+title: Daniel Høyer Bjørnskov's CV - English
 color: lightblue
 ---
 # Daniel Høyer Bjørnskov
@@ -16,29 +16,29 @@ Software Engineer & Software Architect.
 
 ## Personal Profil
 
-Daniel Høyer Bjørnskov is an outgoing software engineer with experience in both complex software development and design as well as establishing and developing software teams and processes.
+My name is Daniel Høyer Bjørnskov and I’m an outgoing software engineer with experience in both complex software development and design as well as establishing and developing software teams and processes.
 <br>
 <br>
-The consultant has experience with both frontend, backend and fullstack tasks and has previously also touched on the DevOps role. For the past four years, he has primarily dealt with the role of Software Architect (solution architect), but also Agile/Scrum team management and a number of development tasks.
+I have experience with both frontend, backend and fullstack tasks and has previously also touched on the DevOps role. For the past four years, I have primarily dealt with the role ofSoftware Architect (solution architect), but also Agile/Scrum team management and a number of development tasks.
 <br>
 <br>
-In the section below, examples of the consultant's most recent tasks within respective categories can be seen.
+In the section below, examples of my most recent tasks within respective categories can be seen.
 <br>
 <br>
-- **Frontend**: Development of SPA (Single Page Application) website with Vue based DevExtreme. Development of "Vanilla JS" and Typescript Electron desktop application. Creating CI/CD pipeline to handle Puppeteer snapshot tests with 0% fault tolerance.<br><br>
-- **Backend**: Concurrency/multithread-handling or database and external protocol integration. Development of common Maven repositories via Artifactory/Jfrog (similar tasks solved for internal NPM packages).<br><br>
-- **Fullstack**: API design (JSON schema standard) and associated implementation for multiple microservices. Knowledge sharing of architecture and technical choices to a larger development team with tools like Confluence, Draw.io and Arc42.<br><br>
-- **DevOps**: Produced Ansible deployment on CI/CD pipeline (TeamCity) in collaboration with Docker containers. The deployment handled the transfer and installation of RPM files, Docker containers and configuration files on multiple devices and across multiple networks.
+- **Frontend**: Development of SPA (Single Page Application) website with Vue basedDevExtreme. Development of “Vanilla JS” and Typescript Electron desktop application. Creating CI/CD pipeline to handle Puppeteer snapshot tests with 0%fault tolerance. <br><br>
+- **Backend**: Concurrency/multithread-handling or database and external protocol integration. Development of common Maven repositories via Artifactory/Jfrog(similar tasks solved for internal NPM packages). <br><br>
+- **Fullstack**: API design (JSON schema standard) and associated implementation for multiple microservices. Knowledge sharing of architecture and technical choices toa larger development team with tools like Confluence, Draw.io and Arc42. <br><br>
+- **DevOps**: Produced Ansible deployment on CI/CD pipeline (TeamCity) in collaboration with Docker containers. The deployment handled the transfer and installation ofRPM files, Docker containers and configuration files on multiple devices and across multiple networks.
 
 <br>
-The consultant finds himself well at the crossroads between the development role and tasks of a more architectural nature - and he likes to be at the head of a team.
+I find myself well at the crossroads between the development role and tasks of a more architectural nature - and I like to be at the head of a team.
 <br>
 <br>
-In the role of team-lead, the consultant has implemented quality-enhancing processes such as the Robot Framework across several units and networks.
-In addition, the consultant has also led new higher standards for code quality via static code analysis tools. Eg. CodeScene, Pitest, Robot Framework, etc.
+In the role of team-lead, I have implemented quality-enhancing processes such as the RobotFramework across several units and networks. 
+In addition, I have also led new higher standards for code quality via static code analysis tools. Eg. CodeScene, Pitest, RobotFramework, etc.
 <br>
 <br>
-The consultant has a high level of initiative, ambition and personal expectation, all of which are driving forces for the consultant's work. The consultant assumes a great deal of responsibility for his and/or the team's tasks being solved to the best of their ability, so that the customer is helped well to the goal.
+I have a high level of initiative, ambition and personal expectation, all of which are driving forces for my work. I assume a great deal of responsibility for my and/or the team’s tasks being solved to the best of their ability, so that the product reaches the desired goal.
 ## Primary competencies
 ### Frontend
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
@@ -70,6 +70,7 @@ The consultant has a high level of initiative, ambition and personal expectation
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
+[![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 
 ### Fullstack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
@@ -113,19 +114,19 @@ The consultant has a high level of initiative, ambition and personal expectation
 Saab Danmark, *Software Architect*
 <br>
 <br>
-As a software architect at Saab, Daniel's primary task was to design and develop the advanced TactiCall VCS product for the civil and military aviation industry.
+As a software architect at Saab, my primary task was to design and develop the advanced TactiCall VCS product for the civil and military aviation industry.
 <br>
 <br>
-During Daniel's time as software architect on the project, both the product and the team have experienced rapid development. The product has gone from consisting of a few lines of code to today being a full commercial system. At the same time, the team has grown from just three developers to today consisting of 10 developers and 2 testers.
+During my time as software architect on the project, both the product and the team have experienced rapid development. The product has gone from consisting of a few lines of code to today being a full commercial system. At the same time, the team has grown from just three developers to today consisting of 10 developers and 2 testers.
 <br>
 <br>
-In addition to design and development, the consultant's role also included facilitating the development process. It was therefore also his responsibility to coordinate deadlines for the development team, stand-up/retrospective/kickoff facilitation (SCRUM master tasks) as well as long-term development planning and strategy.
+In addition to design and development, my role also included facilitating the development process. It was therefore also his responsibility to coordinate deadlines for the development team, stand-up/retrospective/kickoff facilitation (SCRUM master tasks) as well as long-term development planning and strategy.
 <br>
 <br>
-The involvement in the VCS project has given the consultant extensive knowledge and experience with microservice architectures, multiple programming languages and technologies, as well as hands-on experience in driving high-quality software deliveries.
+The involvement in the VCS project has given me extensive knowledge and experience with microservice architectures, multiple programming languages and technologies, as well as hands-on experience in driving high-quality software deliveries.
 <br>
 <br>
-In the role of software architect, the consultant's specific development tasks have varied, from Frontend (e.g. SPA web server, Electron application or internal NPM packages) and Backend development (e.g. Concurrency handling or database and external protocol integration) , for DevOps tasks (e.g. Ansible deployments, Docker debugging and Karaf bundle container handling).
+In the role of software architect, my specific development tasks have varied, from Frontend(e.g. SPA web server, Electron application or internal NPM packages) and Backend development(e.g. Concurrency handling or database and external protocol integration) , for DevOps tasks(e.g. Ansible deployments, Docker debugging and Karaf bundle container handling).
 
 ### Skills utilized
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
@@ -177,18 +178,19 @@ In the role of software architect, the consultant's specific development tasks h
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 [![Jekyll_Markdown Badge](https://img.shields.io/badge/Jekyll_Markdown-{{page.color}})](#)
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
+[![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 
 `2018 - 2029`
 Saab Danmark, *Software Engieneer*
 <br>
 <br>
-In the first year at Saab, the consultant worked as a Software Engineer on the VCS project. Due to good development in the role and training through the Technological Institute and Danish IT (System Architect - Practitioner), the consultant was promoted to the role of Software Architect after one year.
+In the first year at Saab, I worked as a Software Engineer on the VCS project. Due to good development in the role and training through the Technological Institute and Danish IT (SystemArchitect - Practitioner), I was promoted to the role of Software Architect after one year.
 <br>
 <br>
-In the role of Software Engineer, the consultant was responsible for the production of an Electron desktop application based on a "Vanilla JS" and TypeScript project, development of several Java microservices and integration between applications with the MQTT protocol.
+In the role of Software Engineer, I was responsible for the production of an Electron desktop application based on a “Vanilla JS” and TypeScript project, development of several Java microservices and integration between applications with the MQTT protocol.
 <br>
 <br>
-Given that the VCS product handles both radio and telephony communication (SIP and RTP/RTCP protocol), the consultant has also built up good experience in debugging with tools such as Wireshark.
+Given that the VCS product handles both radio and telephony communication (SIP and RTP/RTCP protocol), I have also built up good experience in debugging with tools such as Wireshark.
 ### Skills utilized
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
@@ -223,7 +225,7 @@ Given that the VCS product handles both radio and telephony communication (SIP a
 INTEGU, *Freelance Software Consultant*
 <br>
 <br>
-Over a period of half a year, the consultant traveled to India with his wife in connection with her work. Given the successful working relationship between the client (former employer Capgemini) and the consultant, the position was converted to a freelance position. This allowed the consultant to continue his work remotely from India throughout the six months.
+Over a period of half a year, I traveled to India with his wife in connection with her work. Given the successful working relationship with the former employer Capgemini, the position was converted to a freelance position. This allowed me to continue his work remotely from India throughout the six months.
 
 ### Skills utilized
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
@@ -251,10 +253,10 @@ Over a period of half a year, the consultant traveled to India with his wife in 
 Capgemini, *Software Engineer - Consultant*
 <br>
 <br>
-At Capgemini, the consultant worked as a software engineer on a major booking system for the healthcare system. The consultant quickly grew in his role (eg Java 8 OCA certification) and worked with a variety of development tools and services – all within an established SCRUM project.
+At Capgemini, I worked as a software engineer on a major booking system for the healthcare system. I quickly grew in his role (eg Java 8 OCA certification) and worked with a variety of development tools and services – all within an established SCRUM project.
 <br>
 <br>
-During this employment, the consultant gained an in-depth insight into what it means to work with legacy code, including the caveats and precautions that should be taken into account in order to work safely and efficiently in a 15+ year old codebase.
+During this employment, I gained an in-depth insight into what it means to work with legacy code, including the caveats and precautions that should be taken into account in order to work safely and efficiently in a 15+ year old codebase.
 
 ### Skills utilized
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
@@ -332,6 +334,7 @@ During this employment, the consultant gained an in-depth insight into what it m
     <tr><td><img src="https://img.shields.io/badge/JUnit/Mockito-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Pitest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/LDAP-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2024</td></tr>
   </tbody>
 </table>
 ### Fullstack Technologies
@@ -394,7 +397,7 @@ During this employment, the consultant gained an in-depth insight into what it m
 <img class="pub-img" src="https://media.licdn.com/dms/image/D4E0BAQExG1iHYFa8VQ/company-logo_200_200/0/1692598721186/engineer_the_future_logo?e=2147483647&v=beta&t=oJG699nLsyTY69wUnZSZz1WJ1_-xptkFVoqjt_r0zcU"/>
 <div class="pub-text-grp">
 <p class="pub-text"><a href="https://integu.net/ida-sfa/">IDA/SFA - Military Drones and development of military technologies <br><br> https://integu.net/ida-sfa/</a></p>
-<p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">From idea to app - Problem solving with iterative software development<br><br> https://shorturl.at/qyzNP</a></p>
+<p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">From idea to app - Problem-solving with iterative software development<br><br> https://shorturl.at/qyzNP</a></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
