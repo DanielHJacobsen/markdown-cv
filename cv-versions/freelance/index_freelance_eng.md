@@ -77,6 +77,8 @@ The consultant has a high level of initiative, ambition and personal expectation
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
 [![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
+[![TOGAF Badge](https://img.shields.io/badge/TOGAF-{{page.color}})](#)
+[![Solution Architect Badge](https://img.shields.io/badge/Solution_Architect-{{page.color}})](#)
 
 ### DevOps
 [![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
@@ -112,6 +114,8 @@ The consultant has a high level of initiative, ambition and personal expectation
 
 `2019 - 2024`
 Saab Danmark, *Software Architect*
+<br>
+Industry: *Aviation - Military and Civilian*
 <br>
 <br>
 As a software architect at Saab, Daniel's primary task was to design and develop the advanced TactiCall VCS product for the civil and military aviation industry.
@@ -150,8 +154,11 @@ In the role of software architect, the consultant's specific development tasks h
 [![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
+[![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
+[![TOGAF Badge](https://img.shields.io/badge/TOGAF-{{page.color}})](#)
+[![Solution Architect Badge](https://img.shields.io/badge/Solution_Architect-{{page.color}})](#)
 [![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
 [![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
@@ -178,10 +185,14 @@ In the role of software architect, the consultant's specific development tasks h
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 [![Jekyll_Markdown Badge](https://img.shields.io/badge/Jekyll_Markdown-{{page.color}})](#)
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
-[![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 
-`2018 - 2029`
+<br>
+<br>
+<hr>
+`2018 - 2019`
 Saab Danmark, *Software Engieneer*
+<br>
+Industry: *Aviation - Civilian*
 <br>
 <br>
 In the first year at Saab, the consultant worked as a Software Engineer on the VCS project. Due to good development in the role and training through the Technological Institute and Danish IT (System Architect - Practitioner), the consultant was promoted to the role of Software Architect after one year.
@@ -221,8 +232,13 @@ Given that the VCS product handles both radio and telephony communication (SIP a
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 
+<br>
+<br>
+<hr>
 `2018 - 2019`
 INTEGU, *Freelance Software Consultant*
+<br>
+Industry: *Public Healthcare*
 <br>
 <br>
 Over a period of half a year, the consultant traveled to India with his wife in connection with her work. Given the successful working relationship between the client (former employer Capgemini) and the consultant, the position was converted to a freelance position. This allowed the consultant to continue his work remotely from India throughout the six months.
@@ -249,8 +265,13 @@ Over a period of half a year, the consultant traveled to India with his wife in 
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
 
+<br>
+<br>
+<hr>
 `2018 - 2019`
 Capgemini, *Software Engineer - Consultant*
+<br>
+Industry: *Public Healthcare*
 <br>
 <br>
 At Capgemini, the consultant worked as a software engineer on a major booking system for the healthcare system. The consultant quickly grew in his role (eg Java 8 OCA certification) and worked with a variety of development tools and services – all within an established SCRUM project.
@@ -347,6 +368,8 @@ During this employment, the consultant gained an in-depth insight into what it m
     <tr><td><img src="https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Microservice-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/API_design-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Solution Architect-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/TOGAF-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>4</td><td>2024</td></tr>
   </tbody>
 </table>
 ### DevOps Technologies
@@ -425,10 +448,10 @@ During this employment, the consultant gained an in-depth insight into what it m
 Eurocea ED-109 (software assurance level) certified
 
 `2021`
-Dansk IT - System Architect Practitioner
+Dansk IT - System Architect Practitioner (TOGAF)
 
 `2020`
-Dansk IT - IT Architect Foundation
+Dansk IT - IT Architect Foundation (TOGAF)
 
 `2018`
 Oracle - OCA – Java 8

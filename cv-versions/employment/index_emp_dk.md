@@ -77,6 +77,8 @@ Jeg har et højt niveau af initiativ, ambition og personlig forventning, som all
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
 [![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
+[![TOGAF Badge](https://img.shields.io/badge/TOGAF-{{page.color}})](#)
+[![Solution Architect Badge](https://img.shields.io/badge/Solution_Architect-{{page.color}})](#)
 
 ### Dev-Ops
 [![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
@@ -112,6 +114,8 @@ Jeg har et højt niveau af initiativ, ambition og personlig forventning, som all
 
 `2019 - Nu`
 Saab Danmark, *Softwarearkitekt*
+<br>
+Industri: *Aviation - Militært og Civilt*
 <br>
 <br>
 Som softwarearkitekt hos Saab er min primære opgave at designe og udvikle det avancerede TactiCall VCS-produkt til civil og militær luftfartsindustri.
@@ -149,9 +153,11 @@ I rollen som softwarearkitekt har mine konkrete udviklingsopgaver varieret, fra 
 [![Karaf Badge](https://img.shields.io/badge/Karaf-{{page.color}})](#)
 [![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
-[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
+[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)[![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
+[![TOGAF Badge](https://img.shields.io/badge/TOGAF-{{page.color}})](#)
+[![Solution Architect Badge](https://img.shields.io/badge/Solution_Architect-{{page.color}})](#)
 [![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
 [![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
@@ -180,8 +186,13 @@ I rollen som softwarearkitekt har mine konkrete udviklingsopgaver varieret, fra 
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 [![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 
-`2018 - 2029`
+<br>
+<br>
+<hr>
+`2018 - 2019`
 Saab Danmark, *Softwareingeniør*
+<br>
+Industri: *Aviation - Civilt*
 <br>
 <br>
 I det første år hos Saab arbejdede jeg som Softwareingeniør på VCS-projektet. Grundet god udvikling i rollen og uddannelse gennem Teknologisk Institut og Dansk IT (System Architect - Practitioner) blev jeg efter et år forfremmet til rollen som Softwarearkitekt.
@@ -221,8 +232,13 @@ Givet at VCS-produktet håndterer både radio og telefoni kommunikation (SIP- og
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 
+<br>
+<br>
+<hr>
 `2018 - 2019`
 INTEGU, *Freelance Softwarekonsulent*
+<br>
+Industri: *Offentlig Sundhedssektor*
 <br>
 <br>
 Over en periode på et halvt år rejste jeg sammen med sin kone til Indien i forbindelse med hendes arbejde. Givet det succesfulde arbejdsforhold med tidligere arbejdsgiver Capgemini, blev stillingen konverteret over til en freelance-stilling. Dermed kunne jeg fortsætte sit arbejde remote fra Indien gennem det halve år.
@@ -249,8 +265,13 @@ Over en periode på et halvt år rejste jeg sammen med sin kone til Indien i for
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
 
+<br>
+<br>
+<hr>
 `2018 - 2019`
 Capgemini, *Softwareingeniør - Konsulent*
+<br>
+Industri: *Offentlig Sundhedssektor*
 <br>
 <br>
 Hos Capgemini arbejdede jeg som softwareingeniør på et større bookingsystem til sundhedsvæsenet. Jeg voksede hurtigt i sin rolle (f.eks. Java 8 OCA-certificering) og arbejdede med en række forskellige udviklingsværktøjer og -tjenester – alt sammen inden for et etableret SCRUM-projekt.
@@ -347,6 +368,8 @@ Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at a
     <tr><td><img src="https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Microservice-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/API_design-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Solution Architect-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/TOGAF-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>4</td><td>2024</td></tr>
   </tbody>
 </table>
 ### DevOps Teknologier
@@ -425,10 +448,10 @@ Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at a
 Eurocea ED-109 (software assurance level) certified
 
 `2021`
-Dansk IT - System Architect Practitioner
+Dansk IT - System Architect Practitioner (TOGAF)
 
 `2020`
-Dansk IT - IT Architect Foundation
+Dansk IT - IT Architect Foundation (TOGAF)
 
 `2018`
 Oracle - OCA – Java 8

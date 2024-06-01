@@ -1,10 +1,10 @@
 ---
 layout: cv
-title: Daniel Høyer Bjørnskov's CV - English
+title: Daniel Høyer Bjørnskovs CV - Freelance - Dansk
 color: lightblue
 ---
 # Daniel Høyer Bjørnskov
-Software Engineer & Software Architect.
+Softwareingeniør & Softwarearkitekt.
 
 <div id="webaddress">
 <a href="daniel.h.bjornskov@gmail.com">Daniel.h.bjornskov@gmail.com</a> 
@@ -14,32 +14,32 @@ Software Engineer & Software Architect.
 
 <img class="headshot-img" src="../resources/Headshot.jpg"/>
 
-## Personal Profil
+## Personlig profil
 
-My name is Daniel Høyer Bjørnskov and I’m an outgoing software engineer with experience in both complex software development and design as well as establishing and developing software teams and processes.
+Daniel Høyer Bjørnskov er en udadvendt softwareingeniør med erfaring inden for både kompleks softwareudvikling- og design samt etablering og udvikling af softwareteams og –processer.
 <br>
 <br>
-I have experience with both frontend, backend and fullstack tasks and has previously also touched on the DevOps role. For the past four years, I have primarily dealt with the role ofSoftware Architect (solution architect), but also Agile/Scrum team management and a number of development tasks.
+Konsulenten har erfaring med både frontend-, backend-  og fullstack-opgaver og har tidligere også berørt DevOps-rollen. De seneste fire år har han primært beskæftiget sig med rollen som Softwarearkitekt (løsningsarkitekt), men også Agile/Scrum teamledelse og en række udviklingsopgaver.
 <br>
 <br>
-In the section below, examples of my most recent tasks within respective categories can be seen.
+I nedenstående sektion kan eksempler for konsulentens seneste opgaver inden for respektive kategorier ses.
 <br>
 <br>
-- **Frontend**: Development of SPA (Single Page Application) website with Vue basedDevExtreme. Development of “Vanilla JS” and Typescript Electron desktop application. Creating CI/CD pipeline to handle Puppeteer snapshot tests with 0%fault tolerance. <br><br>
-- **Backend**: Concurrency/multithread-handling or database and external protocol integration. Development of common Maven repositories via Artifactory/Jfrog(similar tasks solved for internal NPM packages). <br><br>
-- **Fullstack**: API design (JSON schema standard) and associated implementation for multiple microservices. Knowledge sharing of architecture and technical choices toa larger development team with tools like Confluence, Draw.io and Arc42. <br><br>
-- **DevOps**: Produced Ansible deployment on CI/CD pipeline (TeamCity) in collaboration with Docker containers. The deployment handled the transfer and installation ofRPM files, Docker containers and configuration files on multiple devices and across multiple networks.
+- **Frontend**: Udvikling af SPA (Single Page Application) website med Vue baseret DevExtreme. Udvikling af "Vanilla JS" og Typescript Electron desktop applikation. Fremstilling af CI/CD-pipeline til at varetag Puppeteer snapshot tests med 0% fejl-tolerance.<br><br>
+- **Backend**: Concurrency/multithread-håndtering eller database- og ekstern protokol-integration. Udvikling af fælles Maven repository via Artifactory/Jfrog (lignende opgaver løst for intern NPM-pakker).<br><br>
+- **Fullstack**: API-design (JSON schema-standard) og tilhørende implementering for flere microservices. Vidensdeling af arkitektur- og tekniske valg til et større udviklingsteam med værktøjer som Confluence, Draw.io og Arc42.<br><br>
+- **DevOps**: Fremstillede Ansible deployment på CI/CD-pipeline (TeamCity) i samarbejde med Docker containers. Deployment'en varetog overførsel og installation af RPM-filer, Docker-containers og konfigurationsfiler på flere enheder og på tværs af flere netværker.
 
 <br>
-I find myself well at the crossroads between the development role and tasks of a more architectural nature - and I like to be at the head of a team.
+Konsulenten befinder sig godt i et krydsfelt mellem udviklingsrollen og opgaver af mere arkitektonisk karakter – og han står gerne i spidsen for et team. 
 <br>
 <br>
-In the role of team-lead, I have implemented quality-enhancing processes such as the RobotFramework across several units and networks. 
-In addition, I have also led new higher standards for code quality via static code analysis tools. Eg. CodeScene, Pitest, RobotFramework, etc.
+I rollen som team-lead, har konsulenten implementeret kvalitetsøgende processer som Robot Framework på tværs af flere enheder og netværker.
+Yderligere har konsulenten også ledt nye højere standarder for kodekvalitet via statiske kode analyse tools. F.eks. CodeScene, Pitest, Robot Framework m.m.
 <br>
 <br>
-I have a high level of initiative, ambition and personal expectation, all of which are driving forces for my work. I assume a great deal of responsibility for my and/or the team’s tasks being solved to the best of their ability, so that the product reaches the desired goal.
-## Primary competencies
+Hos konsulenten eksisterer et højt niveau af initiativ, ambition og personlig forventning, som alle er drivkræfter for konsulentens arbejde. Konsulenten påtager sig et stort ansvar for, at hans og/eller teamets opgaver bliver løst efter bedste evne, så man får hjulpet kunden godt i mål.
+## Primære kompetencer
 ### Frontend
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
@@ -72,13 +72,16 @@ I have a high level of initiative, ambition and personal expectation, all of whi
 [![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
 [![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 
-### Fullstack
+### Full-stack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
 [![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
+[![TOGAF Badge](https://img.shields.io/badge/TOGAF-{{page.color}})](#)
+[![Solution Architect Badge](https://img.shields.io/badge/Solution_Architect-{{page.color}})](#)
 
-### DevOps
+
+### Dev-Ops
 [![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black)](#)
 [![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}})](#)
@@ -92,7 +95,7 @@ I have a high level of initiative, ambition and personal expectation, all of whi
 [![VMWare Badge](https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black)](#)
 [![CI/CD Badge](https://img.shields.io/badge/CI/CD-{{page.color}})](#)
 
-### Tools
+### Værktøjer
 [![Draw.io Badge](https://img.shields.io/badge/Draw.io-{{page.color}})](#)
 [![Confluence Badge](https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black)](#)
 [![Arc42 Badge](https://img.shields.io/badge/Arc42-{{page.color}})](#)
@@ -108,27 +111,29 @@ I have a high level of initiative, ambition and personal expectation, all of whi
 
 <div class="page-break-after"></div>
 
-## Career & projects
+## Karriereforløb & projekter
 
 `2019 - 2024`
-Saab Danmark, *Software Architect*
+Saab Danmark, *Softwarearkitekt*
+<br>
+Industri: *Aviation - Militært og Civilt*
 <br>
 <br>
-As a software architect at Saab, my primary task was to design and develop the advanced TactiCall VCS product for the civil and military aviation industry.
+Som softwarearkitekt hos Saab var Daniels primære opgave at designe og udvikle det avancerede TactiCall VCS-produkt til civil og militær luftfartsindustri.
 <br>
 <br>
-During my time as software architect on the project, both the product and the team have experienced rapid development. The product has gone from consisting of a few lines of code to today being a full commercial system. At the same time, the team has grown from just three developers to today consisting of 10 developers and 2 testers.
+I Daniels tid som softwarearkitekt på projektet har både produktet og teamet oplevet en rivende udvikling. Produktet er gået fra at bestå af nogle få kodelinjer til i dag at være et fuldt kommercielt system. Samtidig er teamet vokset fra kun tre udviklere til i dag at bestå af 10 udviklere og 2 testere.
 <br>
 <br>
-In addition to design and development, my role also included facilitating the development process. It was therefore also his responsibility to coordinate deadlines for the development team, stand-up/retrospective/kickoff facilitation (SCRUM master tasks) as well as long-term development planning and strategy.
+Foruden design og udvikling, omfattede konsulentens rolle også facilitering af udviklingsprocessen. Det var derfor også hans ansvar at koordinere deadlines for udviklingsteamet, stand-up/retrospektiv/kickoff facilitering (SCRUM-master opgaver) samt langsigtet udviklingsplanlægning og -strategi.
 <br>
 <br>
-The involvement in the VCS project has given me extensive knowledge and experience with microservice architectures, multiple programming languages and technologies, as well as hands-on experience in driving high-quality software deliveries.
+Involveringen i VCS-projektet har givet konsulenten en omfattende viden og erfaring med microservice-arkitekturer, flere programmeringssprog og teknologier samt praktisk erfaring med at drive højkvalitets-softwareleverancer.
 <br>
 <br>
-In the role of software architect, my specific development tasks have varied, from Frontend(e.g. SPA web server, Electron application or internal NPM packages) and Backend development(e.g. Concurrency handling or database and external protocol integration) , for DevOps tasks(e.g. Ansible deployments, Docker debugging and Karaf bundle container handling).
+I rollen som softwarearkitekt har konsulentens konkrete udviklingsopgaver varieret, fra Frontend- (f.eks. SPA webserver, Electron applikation eller interne NPM-pakker) og Backend-udvikling (f.eks. Concurrency-håndtering eller database- og ekstern protokol-integration), til DevOps-opgaver (f.eks. Ansible deployments, Docker debugging og Karaf-bundle-container håndtering).
 
-### Skills utilized
+### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![Vue Badge](https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black)](#)
@@ -150,8 +155,11 @@ In the role of software architect, my specific development tasks have varied, fr
 [![Maven Badge](https://img.shields.io/badge/Maven-{{page.color}})](#)
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-{{page.color}})](#)
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
+[![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
+[![TOGAF Badge](https://img.shields.io/badge/TOGAF-{{page.color}})](#)
+[![Solution Architect Badge](https://img.shields.io/badge/Solution_Architect-{{page.color}})](#)
 [![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
 [![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
@@ -180,18 +188,24 @@ In the role of software architect, my specific development tasks have varied, fr
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 [![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 
-`2018 - 2029`
-Saab Danmark, *Software Engieneer*
 <br>
 <br>
-In the first year at Saab, I worked as a Software Engineer on the VCS project. Due to good development in the role and training through the Technological Institute and Danish IT (SystemArchitect - Practitioner), I was promoted to the role of Software Architect after one year.
+<hr>
+`2018 - 2019`
+Saab Danmark, *Softwareingeniør*
+<br>
+Industri: *Aviation - Civilt*
 <br>
 <br>
-In the role of Software Engineer, I was responsible for the production of an Electron desktop application based on a “Vanilla JS” and TypeScript project, development of several Java microservices and integration between applications with the MQTT protocol.
+<br>
+I det første år hos Saab arbejdede konsulenten som Softwareingeniør på VCS-projektet. Grundet god udvikling i rollen og uddannelse gennem Teknologisk Institut og Dansk IT (System Architect - Practitioner) blev konsulenten efter et år forfremmet til rollen som Softwarearkitekt.
 <br>
 <br>
-Given that the VCS product handles both radio and telephony communication (SIP and RTP/RTCP protocol), I have also built up good experience in debugging with tools such as Wireshark.
-### Skills utilized
+I rollen som Softwareingeniør stod konsulenten for fremstillingen af en Electron desktop applikation baseret på et "Vanilla JS" og TypeScript projekt, udvikling af adskillige Java microservices og integration mellem applikationer med MQTT-protokollen.
+<br>
+<br>
+Givet at VCS-produktet håndterer både radio og telefoni kommunikation (SIP- og RTP/RTCP-protokol), har konsulenten også opbygget en god erfaring med at debugge med værktøjer som Wireshark.
+### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
@@ -221,13 +235,18 @@ Given that the VCS product handles both radio and telephony communication (SIP a
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-{{page.color}})](#)
 [![Wireshark Badge](https://img.shields.io/badge/Wireshark-{{page.color}})](#)
 
+<br>
+<br>
+<hr>
 `2018 - 2019`
-INTEGU, *Freelance Software Consultant*
+INTEGU, *Freelance Softwarekonsulent*
+<br>
+Industri: *Offentlig Sundhedssektor*
 <br>
 <br>
-Over a period of half a year, I traveled to India with his wife in connection with her work. Given the successful working relationship with the former employer Capgemini, the position was converted to a freelance position. This allowed me to continue his work remotely from India throughout the six months.
+Over en periode på et halvt år rejste konsulenten sammen med sin kone til Indien i forbindelse med hendes arbejde. Givet det succesfulde arbejdsforhold mellem kunden (tidligere arbejdsgiver Capgemini) og konsulenten, blev stillingen konverteret over til en freelance-stilling. Dermed kunne konsulenten fortsætte sit arbejde remote fra Indien gennem det halve år.
 
-### Skills utilized
+### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
@@ -249,16 +268,21 @@ Over a period of half a year, I traveled to India with his wife in connection wi
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
 
+<br>
+<br>
+<hr>
 `2018 - 2019`
-Capgemini, *Software Engineer - Consultant*
+Capgemini, *Softwareingeniør - Konsulent*
+<br>
+Industri: *Offentlig Sundhedssektor*
 <br>
 <br>
-At Capgemini, I worked as a software engineer on a major booking system for the healthcare system. I quickly grew in his role (eg Java 8 OCA certification) and worked with a variety of development tools and services – all within an established SCRUM project.
+Hos Capgemini arbejdede konsulenten som softwareingeniør på et større bookingsystem til sundhedsvæsenet. Konsulenten voksede hurtigt i sin rolle (f.eks. Java 8 OCA-certificering) og arbejdede med en række forskellige udviklingsværktøjer og -tjenester – alt sammen inden for et etableret SCRUM-projekt.
 <br>
 <br>
-During this employment, I gained an in-depth insight into what it means to work with legacy code, including the caveats and precautions that should be taken into account in order to work safely and efficiently in a 15+ year old codebase.
+Under denne ansættelse fik konsulenten et dybdegående indblik i hvad det vil sige at arbejde med legacy-kode, herunder de forbehold og forholdsregler man bør tage hensyn til for at arbejde sikkert og effektivt i en 15+ år gammel kodebase.
 
-### Skills utilized
+### Kompetencer brugt
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
@@ -281,22 +305,22 @@ During this employment, I gained an in-depth insight into what it means to work 
 
 <div class="page-break-after"></div>
 
-## Skill table
-### Roles
+## Kompetenceskema
+### Roller
 <table class="skill-table">
   <thead>
-    <tr><th>Roles</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Rolle</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td>Software Architect</td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
-    <tr><td>Software Engineer</td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td>Softwarearkitekt</td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td>Softwareingeniør</td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
     <tr><td>SCRUM-master</td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-### Frontend Technologies
+### Frontend Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>Frontend Technologies</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Frontend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
@@ -316,10 +340,10 @@ During this employment, I gained an in-depth insight into what it means to work 
     <tr><td><img src="https://img.shields.io/badge/Jest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-### Backend Technologies
+### Backend Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>Backend Technologies</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Backend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
@@ -337,22 +361,24 @@ During this employment, I gained an in-depth insight into what it means to work 
     <tr><td><img src="https://img.shields.io/badge/LDAP-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2024</td></tr>
   </tbody>
 </table>
-### Fullstack Technologies
+### Full-stack Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>Fullstack Technologies</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Full-stack Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Microservice-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/API_design-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Solution Architect-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/TOGAF-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>4</td><td>2024</td></tr>
   </tbody>
 </table>
-### DevOps Technologies
+### DevOps Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>DevOps Technologies</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>DevOps Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
@@ -369,10 +395,10 @@ During this employment, I gained an in-depth insight into what it means to work 
     <tr><td><img src="https://img.shields.io/badge/CI/CD-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
-### Tools
+### Værktøjer
 <table class="skill-table">
   <thead>
-    <tr><th>Tools</th><th>Skill level</th><th>Years experience</th><th>Last utilized</th></tr>
+    <tr><th>Værktøjer</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
     <tr><td><img src="https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
@@ -390,14 +416,14 @@ During this employment, I gained an in-depth insight into what it means to work 
   </tbody>
 </table>
 
-## Publications
-### Presentations & Lectures
+## Publikationer
+### Foredrag & Undervisning
 `2024`
 <img class="pub-img" src="https://integu.net/wp-content/uploads/2024/03/IDA-SFA-LinkedIn-Image-4.jpg"/>
 <img class="pub-img" src="https://media.licdn.com/dms/image/D4E0BAQExG1iHYFa8VQ/company-logo_200_200/0/1692598721186/engineer_the_future_logo?e=2147483647&v=beta&t=oJG699nLsyTY69wUnZSZz1WJ1_-xptkFVoqjt_r0zcU"/>
 <div class="pub-text-grp">
 <p class="pub-text"><a href="https://integu.net/ida-sfa/">IDA/SFA - Military Drones and development of military technologies <br><br> https://integu.net/ida-sfa/</a></p>
-<p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">From idea to app - Problem-solving with iterative software development<br><br> https://shorturl.at/qyzNP</a></p>
+<p class="pub-text"><a href="https://ekspert.engineerthefuture.dk/eksperter/daniel-hoeyer-jacobsen-4492/">Fra idé til app - Problemløsning med iterativ softwareudvikling <br><br> https://shorturl.at/qyzNP</a></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
 <p class="pub-text"></p>
@@ -419,16 +445,16 @@ During this employment, I gained an in-depth insight into what it means to work 
 <p class="pub-text"><a href="https://integu.net/how-to-manage-internal-external-package-with-artifactory/">How To Manage Internal/External Package With Artifactory <br><br> https://shorturl.at/qHIN6</a></p>
 </div>
 
-### Education & Certifications
+### Uddannelse og certificeringer
 
 `2023`
 Eurocea ED-109 (software assurance level) certified
 
 `2021`
-Dansk IT - System Architect Practitioner
+Dansk IT - System Architect Practitioner (TOGAF)
 
 `2020`
-Dansk IT - IT Architect Foundation
+Dansk IT - IT Architect Foundation (TOGAF)
 
 `2018`
 Oracle - OCA – Java 8
