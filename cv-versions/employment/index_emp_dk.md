@@ -71,6 +71,7 @@ Jeg har et højt niveau af initiativ, ambition og personlig forventning, som all
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
 [![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
+[![HL7 FHIR Badge](https://img.shields.io/badge/HL7 FHIR-{{page.color}})](#)
 
 ### Full-stack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
@@ -274,7 +275,7 @@ Capgemini, *Softwareingeniør - Konsulent*
 Industri: *Offentlig Sundhedssektor*
 <br>
 <br>
-Hos Capgemini arbejdede jeg som softwareingeniør på et større bookingsystem til sundhedsvæsenet. Jeg voksede hurtigt i sin rolle (f.eks. Java 8 OCA-certificering) og arbejdede med en række forskellige udviklingsværktøjer og -tjenester – alt sammen inden for et etableret SCRUM-projekt.
+Hos Capgemini arbejdede jeg som softwareingeniør på et større bookingsystem til sundhedsvæsenet. Jeg voksede hurtigt i sin rolle (f.eks. Java 8 OCA-certificering) og arbejdede med en række forskellige udviklingsværktøjer og -standarder (f.eks. HL7 FHIR) – alt sammen inden for et etableret SCRUM-projekt.
 <br>
 <br>
 Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at arbejde med legacy-kode, herunder de forbehold og forholdsregler man bør tage hensyn til for at arbejde sikkert og effektivt i en 15+ år gammel kodebase.
@@ -299,6 +300,7 @@ Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at a
 [![Jira Badge](https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black)](#)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
+[![HL7 FHIR Badge](https://img.shields.io/badge/HL7 FHIR-{{page.color}})](#)
 
 <div class="page-break-after"></div>
 
@@ -356,6 +358,7 @@ Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at a
     <tr><td><img src="https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Pitest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/LDAP-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/HL7 FHIR-{{page.color}}" alt="tag-missing"></td><td>🔵🔵⚪⚪⚪</td><td>1</td><td>2019</td></tr>
   </tbody>
 </table>
 ### Full-stack Teknologier
@@ -468,6 +471,6 @@ B.Sc – Management Center Innsbruck
 `2012-2015`
 B.Sc. Innovation and Business (IB)
 
-<!-- ### Footer Last updated: March 2024 -->
+<!-- ### Footer Last updated: June 2024 -->
 
 

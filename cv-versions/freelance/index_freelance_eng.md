@@ -71,6 +71,7 @@ The consultant has a high level of initiative, ambition and personal expectation
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}})](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-{{page.color}})](#)
 [![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
+[![HL7 FHIR Badge](https://img.shields.io/badge/HL7 FHIR-{{page.color}})](#)
 
 ### Fullstack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
@@ -274,7 +275,7 @@ Capgemini, *Software Engineer - Consultant*
 Industry: *Public Healthcare*
 <br>
 <br>
-At Capgemini, the consultant worked as a software engineer on a major booking system for the healthcare system. The consultant quickly grew in his role (eg Java 8 OCA certification) and worked with a variety of development tools and services – all within an established SCRUM project.
+At Capgemini, the consultant worked as a software engineer on a major booking system for the healthcare system. The consultant quickly grew in his role (eg Java 8 OCA certification) and worked with a variety of development tools and -standards (e.g. HL7 FHIR) – all within an established SCRUM project.
 <br>
 <br>
 During this employment, the consultant gained an in-depth insight into what it means to work with legacy code, including the caveats and precautions that should be taken into account in order to work safely and efficiently in a 15+ year old codebase.
@@ -299,6 +300,7 @@ During this employment, the consultant gained an in-depth insight into what it m
 [![Jira Badge](https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black)](#)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black)](#)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
+[![HL7 FHIR Badge](https://img.shields.io/badge/HL7 FHIR-{{page.color}})](#)
 
 <div class="page-break-after"></div>
 
@@ -356,6 +358,7 @@ During this employment, the consultant gained an in-depth insight into what it m
     <tr><td><img src="https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Pitest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/LDAP-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/HL7 FHIR-{{page.color}}" alt="tag-missing"></td><td>🔵🔵⚪⚪⚪</td><td>1</td><td>2019</td></tr>
   </tbody>
 </table>
 ### Fullstack Technologies
@@ -468,6 +471,6 @@ B.Sc – Management Center Innsbruck
 `2012-2015`
 B.Sc. Innovation and Business (IB)
 
-<!-- ### Footer Last updated: March 2024 -->
+<!-- ### Footer Last updated: June 2024 -->
 
 
