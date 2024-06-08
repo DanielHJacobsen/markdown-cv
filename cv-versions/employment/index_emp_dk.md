@@ -463,7 +463,7 @@ Oracle - OCA – Java 8
 Huawei - Seeds for the Future
 
 `2015-2017`
-M.Sc. Innovative Communication Technologies & Entrepreneurship
+M.Sc. Innovative Communication Technologies & Entrepreneurship (Civilingeniør)
 
 `2014-2015`
 B.Sc – Management Center Innsbruck
