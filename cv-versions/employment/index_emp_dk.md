@@ -16,7 +16,7 @@ Softwareingeniør & Softwarearkitekt.
 
 ## Personlig profil
 
-Mit navn er Daniel Høyer Bjørnskov og jeg er en udadvendt softwareingeniør med erfaring inden for både kompleks softwareudvikling- og design samt etablering og udvikling af softwareteams og –processer.
+Mit navn er Daniel Høyer Bjørnskov og jeg er en udadvendt softwareingeniør og løsningsarkitekt med erfaring inden for både kompleks softwareudvikling- og design samt etablering og udvikling af softwareteams og –processer.
 <br>
 <br>
 Jeg har erfaring med både frontend-, backend- og fullstack-opgaver og har tidligere også berørt DevOps-rollen. De seneste fire år har jeg primært beskæftiget mig med rollen som Softwarearkitekt (løsningsarkitekt), men også Agile/Scrum teamledelse og en række udviklingsopgaver.

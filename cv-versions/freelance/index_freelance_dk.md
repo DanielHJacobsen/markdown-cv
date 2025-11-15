@@ -16,7 +16,7 @@ Softwareingeniør & Softwarearkitekt.
 
 ## Personlig profil
 
-Daniel Høyer Bjørnskov er en udadvendt softwareingeniør med erfaring inden for både kompleks softwareudvikling- og design samt etablering og udvikling af softwareteams og –processer.
+Daniel Høyer Bjørnskov er en udadvendt softwareingeniør og løsningsarkitekt med erfaring inden for både kompleks softwareudvikling- og design samt etablering og udvikling af softwareteams og –processer.
 <br>
 <br>
 Konsulenten har erfaring med både frontend-, backend-  og fullstack-opgaver og har tidligere også berørt DevOps-rollen. De seneste fire år har han primært beskæftiget sig med rollen som Softwarearkitekt (løsningsarkitekt), men også Agile/Scrum teamledelse og en række udviklingsopgaver.

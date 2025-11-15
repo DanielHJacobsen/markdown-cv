@@ -16,10 +16,10 @@ Software Engineer & Software Architect.
 
 ## Personal Profil
 
-My name is Daniel Høyer Bjørnskov and I’m an outgoing software engineer with experience in both complex software development and design as well as establishing and developing software teams and processes.
+My name is Daniel Høyer Bjørnskov and I’m an outgoing software engineer and solution architect with experience in both complex software development and design as well as establishing and developing software teams and processes.
 <br>
 <br>
-I have experience with both frontend, backend and fullstack tasks and has previously also touched on the DevOps role. For the past four years, I have primarily dealt with the role ofSoftware Architect (solution architect), but also Agile/Scrum team management and a number of development tasks.
+I have experience with both frontend, backend and fullstack tasks and has previously also touched on the DevOps role. For the past four years, I have primarily dealt with the role of Software Architect (solution architect), but also Agile/Scrum team management and a number of development tasks.
 <br>
 <br>
 In the section below, examples of my most recent tasks within respective categories can be seen.
@@ -463,7 +463,7 @@ Oracle - OCA – Java 8
 Huawei - Seeds for the Future
 
 `2015-2017`
-M.Sc. Innovative Communication Technologies & Entrepreneurship
+M.Sc. Innovative Communication Technologies & Entrepreneurship (Civil engineer)
 
 `2014-2015`
 B.Sc – Management Center Innsbruck

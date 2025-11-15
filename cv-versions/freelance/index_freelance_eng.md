@@ -16,7 +16,7 @@ Software Engineer & Software Architect.
 
 ## Personal Profil
 
-Daniel Høyer Bjørnskov is an outgoing software engineer with experience in both complex software development and design as well as establishing and developing software teams and processes.
+Daniel Høyer Bjørnskov is an outgoing software engineer and solution architect with experience in both complex software development and design as well as establishing and developing software teams and processes.
 <br>
 <br>
 The consultant has experience with both frontend, backend and fullstack tasks and has previously also touched on the DevOps role. For the past four years, he has primarily dealt with the role of Software Architect (solution architect), but also Agile/Scrum team management and a number of development tasks.
