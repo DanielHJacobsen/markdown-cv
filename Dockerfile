@@ -12,10 +12,6 @@ WORKDIR /srv/jekyll
 # Install Jekyll and Bundler
 RUN gem install jekyll bundler
 
-# Copy your Jekyll site into the container
-# (You can remove this if you mount your site at runtime)
-COPY . .
-
 # Expose Jekyll's default port
 EXPOSE 4000
 
