@@ -54,7 +54,9 @@ Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/el
 
 ![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
-- Forked by Daniel H. Bjørnskov.
+Forked by Daniel H. Bjørnskov.
+
+![Daniel Høyer Bjørnskov](https://avatars.githubusercontent.com/u/18438862?v=4&s=100)
 
 ### License
 
