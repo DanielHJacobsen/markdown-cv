@@ -2,8 +2,8 @@
 .pub-img {
     border: solid;
     border-radius: 20px;
-    height: 100px;
-    width: 100px;
+    height: 90px;
+    width: 90px;
     filter: sepia(100%) hue-rotate(190deg) saturate(150%);
 }
 

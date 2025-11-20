@@ -47,7 +47,7 @@ Jeg har et højt niveau af initiativ, ambition og personlig forventning, som all
 [![Vue Badge](https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}}?logo=css3&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-{{page.color}}?logo=css&labelColor=black)](#)
 [![Gridstack Badge](https://img.shields.io/badge/Gridstack-{{page.color}})](#)
 [![Electron Badge](https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black)](#)
 [![DevExtreme Badge](https://img.shields.io/badge/DevExtreme-{{page.color}})](#)
@@ -73,30 +73,35 @@ Jeg har et højt niveau af initiativ, ambition og personlig forventning, som all
 [![LDAP Badge](https://img.shields.io/badge/LDAP-{{page.color}})](#)
 [![HL7 FHIR Badge](https://img.shields.io/badge/HL7 FHIR-{{page.color}})](#)
 
-### Full-stack
+### Fullstack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black)](#)
+[![EMQX Badge](https://img.shields.io/badge/EMQX-{{page.color}})](#)
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black)](#)
-[![Microservice Badge](https://img.shields.io/badge/Microservice-{{page.color}})](#)
+[![Microservices Badge](https://img.shields.io/badge/Microservices-{{page.color}})](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-{{page.color}})](#)
 [![TOGAF Badge](https://img.shields.io/badge/TOGAF-{{page.color}})](#)
 [![Solution Architect Badge](https://img.shields.io/badge/Solution_Architect-{{page.color}})](#)
+[![Event-driven Architecture Badge](https://img.shields.io/badge/Event--driven_Architecture-{{page.color}})](#)
 
-### Dev-Ops
+### DevOps
 [![Git Badge](https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black)](#)
 [![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}})](#)
 [![SSH Badge](https://img.shields.io/badge/SSH-{{page.color}})](#)
 [![Ansible Badge](https://img.shields.io/badge/Ansible-{{page.color}}?logo=Ansible&labelColor=black)](#)
 [![TeamCity Badge](https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black)](#)
+[![GitLab Badge](https://img.shields.io/badge/GitLab-{{page.color}}?logo=GitLab&labelColor=black)](#)
 [![Linux Badge](https://img.shields.io/badge/Linux-{{page.color}}?logo=Linux&labelColor=black)](#)
 [![RPM Badge](https://img.shields.io/badge/RPM-{{page.color}})](#)
 [![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-{{page.color}})](#)
 [![Bash/SH Badge](https://img.shields.io/badge/Bash/SH_scripting-{{page.color}})](#)
 [![VMWare Badge](https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black)](#)
 [![CI/CD Badge](https://img.shields.io/badge/CI/CD-{{page.color}})](#)
+[![Network configuration Badge](https://img.shields.io/badge/Network_configuration-{{page.color}})](#)
 
-### Værktøjer
+### Tools
 [![Draw.io Badge](https://img.shields.io/badge/Draw.io-{{page.color}})](#)
+[![Dependency-Track Badge](https://img.shields.io/badge/Dependency--Track-{{page.color}})](#)
 [![Confluence Badge](https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black)](#)
 [![Arc42 Badge](https://img.shields.io/badge/Arc42-{{page.color}})](#)
 [![ED_109 Badge](https://img.shields.io/badge/ED109-{{page.color}})](#)
@@ -112,9 +117,18 @@ Jeg har et højt niveau af initiativ, ambition og personlig forventning, som all
 <div class="page-break-after"></div>
 
 ## Karriereforløb & projekter
-
-`2019 - Nu`
+`2025 - now`
 Saab Danmark, *Softwarearkitekt*
+<br>
+Efter flere års kontinuerlig vækst – både i VCS-produktet og i organisationen – udviklede min rolle sig fra at fungere som en kombineret softwarearkitekt og teamleder for ét udviklingsteam til at påtage mig det fulde ansvar som softwarearkitekt på tværs af alle applikationsudviklingsteams, inklusive koordinering på tværs af teams (embedded teams, platformteams og specialfunktionsteams).
+<br>
+<br>
+Med den ene fod i koden og den anden i tæt samarbejde med system- og løsningsarkitekter balancerer jeg nu ansvarsområder, der omfatter design af softwarearkitektur, facilitering af arkitekturreviews og sikring af høj udviklingshastighed på tværs af teams. Dette understøtter jeg ved at fremme vidensdeling, levere klare og letforståelige arkitekturdesigns samt abstrahere systemniveau-kompleksitet, så individuelle udviklere skånes for unødig kompleksitet.
+<br>
+<br>
+
+`2019 - 2025`
+Saab Danmark, *Softwarearkitekt || Team Lead*
 <br>
 Industri: *Aviation - Militært og Civilt*
 <br>
@@ -311,7 +325,8 @@ Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at a
     <tr><th>Rolle</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td>Softwarearkitekt</td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
+    <tr><td>Softwarearkitekt</td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>Dagligt</td></tr>
+    <tr><td>Team Lead</td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2025</td></tr>
     <tr><td>Softwareingeniør</td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
     <tr><td>SCRUM-master</td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
   </tbody>
@@ -319,44 +334,44 @@ Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at a
 ### Frontend Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>Frontend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+    <tr><th>Frontend Technologies</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/JavaScript-{{page.color}}?logo=javascript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/TypeScript-{{page.color}}?logo=TypeScript&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Android-{{page.color}}?logo=Android&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>2020</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Vue-{{page.color}}?logo=vuedotjs&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Angular-{{page.color}}?logo=Angular&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>2</td><td>2020</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/HTML-{{page.color}}?logo=html5&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Electron-{{page.color}}?logo=Electron&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/NPM-{{page.color}}?logo=NPM&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Puppeteer-{{page.color}}?logo=Puppeteer&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/CSS-{{page.color}}?logo=css3&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/CSS-{{page.color}}?logo=css&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Selenium-{{page.color}}?logo=Selenium&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/DevExtreme-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Gridstack-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/SPA-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>2</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/SPA-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>3</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Jest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
   </tbody>
 </table>
 ### Backend Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>Backend Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+    <tr><th>Backend Technologies</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Python-{{page.color}}?logo=Python&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Java-{{page.color}}?logo=openjdk&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Python-{{page.color}}?logo=Python&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>4</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/SQL-{{page.color}}?logo=mysql&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2019</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Firebase-{{page.color}}?logo=Firebase&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2020</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>2</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/MongoDB-{{page.color}}?logo=MongoDB&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Redis-{{page.color}}?logo=Redis&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2023</td></tr>
     <tr><td><img src="https://img.shields.io/badge/Gradle-{{page.color}}?logo=Gradle&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>6</td><td>2019</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Karaf-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>2</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Maven-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/JUnit/Mockito-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Pitest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Karaf-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>3</td><td>2025</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Maven-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/JUnit/Mockito-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Concurrency/Multithreading-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Pitest-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/LDAP-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/HL7 FHIR-{{page.color}}" alt="tag-missing"></td><td>🔵🔵⚪⚪⚪</td><td>1</td><td>2019</td></tr>
   </tbody>
@@ -364,55 +379,56 @@ Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at a
 ### Full-stack Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>Full-stack Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+    <tr><th>Fullstack Technologies</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Microservice-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/API_design-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Solution Architect-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>4</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/MQTT-{{page.color}}?logo=MQTT&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/EQMX-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/JSON_Schema-{{page.color}}?logo=JSON&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Microservice-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/API_design-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Solution Architect-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/TOGAF-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>4</td><td>2024</td></tr>
   </tbody>
 </table>
 ### DevOps Teknologier
 <table class="skill-table">
   <thead>
-    <tr><th>DevOps Teknologier</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+    <tr><th>DevOps Technologies</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Ansible-{{page.color}}?logo=Ansible&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>3</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Linux-{{page.color}}?logo=Linux&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/RPM-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Robot_Framework-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>2</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Bash/SH_scripting-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/SSH-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/CI/CD-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Git-{{page.color}}?logo=Git&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Docker-{{page.color}}?logo=docker&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Ansible-{{page.color}}?logo=Ansible&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>4</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/TeamCity-{{page.color}}?logo=TeamCity&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Linux-{{page.color}}?logo=Linux&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/VMWare-{{page.color}}?logo=VMWare&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/RPM-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Robot_Framework-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>3</td><td>2025</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Bash/SH_scripting-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/SSH-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Artifactory/Jfrog-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/CI/CD-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>Dagligt</td></tr>
   </tbody>
 </table>
 ### Værktøjer
 <table class="skill-table">
   <thead>
-    <tr><th>Værktøjer</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
+    <tr><th>Tools</th><th>Niveau</th><th>Års erfaring</th><th>Sidst brugt</th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/GitHub-{{page.color}}?logo=GitHub&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Confluence-{{page.color}}?logo=Confluence&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Jira-{{page.color}}?logo=Jira&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Bitbucket-{{page.color}}?logo=Bitbucket&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/GitHub-{{page.color}}?logo=GitHub&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>7</td><td>Dagligt</td></tr>
     <tr><td><img src="https://img.shields.io/badge/PyCharm-{{page.color}}?logo=intellij-idea&labelColor=black" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>6</td><td>2024</td></tr>
     <tr><td><img src="https://img.shields.io/badge/CodeScene-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵⚪</td><td>5</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Arc42-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/ED109-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>2</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Draw.io-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>3</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Jekyll_Markdown-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>1</td><td>2024</td></tr>
-    <tr><td><img src="https://img.shields.io/badge/Wireshark-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>5</td><td>2024</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Arc42-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>5</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/ED109-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>3</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Draw.io-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵🔵🔵</td><td>4</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Jekyll_Markdown-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>2</td><td>Dagligt</td></tr>
+    <tr><td><img src="https://img.shields.io/badge/Wireshark-{{page.color}}" alt="tag-missing"></td><td>🔵🔵🔵⚪⚪</td><td>6</td><td>Dagligt</td></tr>
   </tbody>
 </table>
 
@@ -446,6 +462,9 @@ Under denne ansættelse fik jeg et dybdegående indblik i hvad det vil sige at a
 </div>
 
 ### Uddannelse og certificeringer
+
+`2025`
+Certified SAFe® 6 Agilist certified
 
 `2023`
 Eurocea ED-109 (software assurance level) certified
